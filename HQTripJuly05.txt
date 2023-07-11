@@ -1,0 +1,1842 @@
+TripId	Empcode	NodalName
+203785	M0643550	Mogappair JJ Nagar Bus Stop
+203887	N0452321	Ayyapakkam TNHB Colony
+203769	M0745753	Choolaimedu Mehta Nagar Bus Stop
+203795	M1150058	Tambaram Camp Road
+203817	N0452496	Porur Mugalivakkam
+203803	M1250506	Chrompet Bus Stop
+203881	L0730441	Ambattur Ponnu Super Market
+203773	L1235937	Saidapet Jones Road
+203878	M0643745	Avadi Mitnamalli Bus Stop
+203876	N0552586	Thirumullaivoyal Steford Bus Stop
+203761	N0452475	Alandur Hotel Mount Heera
+203884	L0630256	Ayapakkam Baba Kovil
+203879	M0847493	Ramapuram DLF
+203863	M0339577	Thirunindravur Railway Station
+203849	L0630383	Tondiarpet Apollo Hospital
+203786	M1150338	Maduravoyal MGR University
+203890	K0224106	Nanganallur Bus Stop
+203894	M0643584	Ambattur Oragadam
+203815	M0948729	Adyar Telephone Exchange Bus Stop
+203871	N0351663	Avadi TNHB Colony
+203870	F024693	Pattabiram Bus Stop
+203763	M0441118	Triplicane Rathna Cafe
+203761	N0351341	St Thomas Mount Bus Stop
+203838	N0251041	Kodungaiyur Gandhi Statue
+203887	N0251125	Ayyapakkam TNHB Colony
+203874	M0543303	Avadi Paruthipattu
+203764	M0745908	Thousand Light Greams Road
+203868	K0825416	Pallikaranai Oil Mill Bus Stop
+203947	M0948797	Ayapakkam TNHB Colony
+203794	N0653196	Thoraipakkam Signal
+203857	M1150067	Porur Toll Gate
+203854	L0428696	Villivakkam Bus Stand
+203775	M1150374	Kodambakkam Power House
+203893	M0340313	Kallikuppam Arch Bus Stop
+203750	J0521471	Adambakkam NGO Colony bus Stop
+203801	M0948119	Hasthinapuram Bus Stop
+203802	J1022558	Chrompet Bus Stop
+203790	L0126737	Urapakkam Bus Stop
+203767	N0653346	T Nagar Bus Stop
+203795	N0552763	Tambaram Camp Road
+203892	L0429241	Surapet Shanmugapuram
+203770	M0745012	MMDA Colony
+203752	M1049281	Iyyapanthangal Bus Stop
+203750	M0948846	Adambakkam NGO Colony bus Stop
+203757	N0452132	Thirumangalam Bus Stop
+203776	N0552650	Ekkatuthangal Bus Stop
+203899	E012056	Mangadu Bus Stop
+203886	N0251121	Ayyapakkam Athipet
+203878	L1134465	Avadi Muthapudupet Bus Stop
+203810	M0948255	Guindy Butt Road
+203755	L0126731	Porur Bai kadai
+203782	M0745696	Virugambakkam Bus Stop
+203806	M0846809	Pallavaram Olympia Building
+203759	N0552571	Mylapore City Centre
+203865	M1149853	Avadi Bus Stop
+203797	I0516773	Tambaram East Bus Stop
+203767	M0136432	T Nagar Bus Stop
+203888	M0948973	Redhills Koot Road
+203857	M0745021	Keelkattalai Eb Office
+203806	M1049165	Pallavaram Bus Stop
+203894	M0137095	Ambattur Oragadam
+203847	N0451984	Tondiarpet Manikoondu
+203898	M0542427	Poonamallee Kallarai Bus Stop
+203900	M0441412	Kundrathur Bus Stop
+203856	N0653147	Central Ribbon Building
+203846	M0745019	Kovilambakkam Bus Stop
+203852	M0644803	Royapuram Kasimedu Signal
+203868	J0320609	Pallikaranai Oil Mill Bus Stop
+203809	M0137157	Taramani Railway Station
+203755	N0351270	Kovur Bus Stop
+203797	M0948736	Tambaram East Bus Stop
+203799	N0251080	Tambaram West Bus Stop
+203856	M0746127	Kilpauk Garden
+203771	M1049589	Mogappair Collector Nagar Bus stop
+203805	M0948647	Perungudi Bus Stop
+203772	M0643672	Porur Signal
+203801	M0846384	Hasthinapuram Bus Stop
+203787	N0452198	Madhuravoyal Erikkari Bus Stop
+203882	M0847651	Thirumullaivoyal Manikandapuram bus stop
+203762	N0452023	Anna Nagar Shanthi Colony
+203795	K0224112	Tambaram Camp Road
+203755	L0831913	Kovur Bus Stop
+203795	M1049396	Tambaram Camp Road
+203787	N0552876	Maduravoyal MGR University
+203755	M0847205	Kovur Bus Stop
+203862	M0137733	Pattabiram Grace Hospital
+203887	M0745356	Ayyapakkam TNHB Colony
+203767	N0250948	T Nagar Bus Stop
+203752	N0251109	Poonamallee Kattupakkam Bus Stop
+203801	N0452317	Chrompet Bus Stop
+203872	N0452009	Avadi Checkpost
+203878	M0948820	Ambattur Canara Bank
+203869	E042527	Pattabiram Railway Gate
+203840	N0552589	Vyasarpadi Mullai Nagar Bus Stop
+203752	N0552949	Iyyapanthangal Bus Stop
+203873	L1134392	Avadi kamaraj Nagar Bus Stop
+203881	M0948954	Ambattur Ponnu Super Market
+203757	H0714452	RA Puram
+203790	M1049264	Urapakkam Bus Stop
+203859	N0452364	Purasaivakkam Thana Street
+203895	M0136534	Pudur Malliga Mahal
+203799	M1150139	Tambaram West Bus Stop
+203815	N0452419	Saidapet Court
+203802	N0452192	Chrompet Bus Stop
+203861	M0948407	Thirunindravur Bus Stop
+203869	D071254	Thirunindravur Bus Stop
+203898	M1049679	Poonamalee Bus Stop
+203753	M0948927	Thiruverkadu Bus Depot
+203760	L0328299	Anna Nagar West Bus Stop
+203889	M0744952	Redhills Bus Stop
+203828	L1134753	Kolathur Teachers Colony
+203836	M0745302	Madhavaram Bus Stop
+203756	N0452499	Mugallivakam Bus Stop
+203855	M0846956	Broadway Excellent Hotel
+203811	M1149781	Velacheriy Check Post
+203837	M1150345	Kodungaiyur Bus Stop
+203827	L0730531	Kolathur Vinayagapuram
+203778	M0541998	Thirumangalam Bus Stop
+203831	M1049043	Manali Bus Stop
+203848	M0238565	Korukkupet Police Station
+203874	J0521172	Avadi Paruthipattu
+203827	M0340607	Kolathur Vinayagapuram
+203822	M1150231	Perambur Ponniammanmedu
+203826	M0948672	Perambur Ponniammanmedu
+203775	N0452359	Kodambakkam Sekar Emporium
+203862	M0948740	Pattabiram Bus Stop
+203819	M1150369	Perambur Market
+203835	M0643581	Madipakkam Ram Nagar
+203834	M1049267	Madhavaram Thapalpetti
+203897	M0137658	Ambattur Estate MTC Bus Depot
+203898	M0644010	Poonamalee Bus Stop
+203815	M0846948	Adyar Madhya kailash Bus Stop
+203819	M0745352	Thiru.Vi.Ka. Nagar Police Station
+203826	M0542828	Kolathur Retteri Signal
+203857	E103627	Kilkattalai Bus Depot
+203835	N0552772	Madipakkam Bus Stop
+203863	M1049269	Thirunindravur Railway Station
+203843	M0948912	Thiruvottiyur Ajex Bus Stop
+203823	M0644806	Thiru.Vi.Ka. Nagar Police Station
+203825	L0529429	Kolathur Poombugar nagar bus stop
+203820	M1150346	Perambur Bus Stop
+203900	M0239183	Kundrathur Bus Stop
+203865	N0451979	Thirunindravur Railway Station
+203838	M0441161	KKD Nagar Thiruthangal Nadar College
+203810	N0452327	Velachery HP Petrol Bunk
+203876	M0137015	Avadi Kovilpadhagai bus stop
+203792	M0948219	Perungalathur Bus Stop
+203779	M1049187	Virugambakkam HP Petrol Bunk
+203855	M0137413	Broadway Excellent Hotel
+203832	M0137017	Mathur Bus Stop
+203762	N0552766	Anna Nagar Shanthi Colony
+203776	M1149797	Ekkatuthangal Bus Stop
+203774	M1149772	Vadapalani Bus Stop
+203900	M0441101	Kundrathur Police Station
+203822	L0831785	Kolathur Kumaran Nagar Bus Stop
+203861	M0136520	Thirunindravur Railway Station
+203829	M0948806	Kolathur GKM Colony
+203836	M0847445	Moolakadai Police Station
+203900	M0847905	Kundrathur Periyar Nagar
+203889	M0339454	Redhills Bus Stop
+203767	N0250903	Mogappair Collector Nagar Bus stop
+203858	M0339912	Perambur Barracks Road
+203889	M0339787	Redhills Bus Stop
+203817	E042572	Porur Mugalivakkam
+203835	M0339941	Madipakkam Ram Nagar
+203896	M0543328	Menambedu Bus Stop
+203873	E012064	Avadi kamaraj Nagar Bus Stop
+203831	L1235990	Manali Bus Stop
+203854	K0825253	Villivakkam ICF Bus Stop
+203844	M0542313	Thiruvottriyur Raja Kadai Bus stop
+203846	M0543182	Kovilambakkam Bus Stop
+203816	N0452333	Mogappair 7H Bus Stop
+203822	M0542396	Kolathur Kumaran Nagar Bus Stop
+203892	M0137498	Surapet Shanmugapuram
+203801	M0137205	Tambaram Sanitorium Bus Stop
+203801	N0351511	Chrompet Bus Stop
+203751	M0136681	Paraniputhur Bus Stop
+203783	N0452340	Thoraipakkam PTC Quarters Bus Stop
+203848	L0932843	Vyasarpadi Sharma Nagar
+203890	N0452130	Nanganallur Bus Stop
+203792	N0552845	Vandaloor Bus Stop
+203801	M0441225	Hasthinapuram Bus Stop
+203784	M0136416	Mogappair 7H Bus Stop
+203862	M0440961	Pattabiram Police station
+203783	L0630148	Thoraipakkam PTC Quarters Bus Stop
+203795	N0251074	Tambaram Camp Road
+203945	M0238191	Adambakkam NGO Colony bus Stop
+203765	L0227343	Chintadripet Bus Stop
+203769	M0949010	Choolaimedu Bata Show Room
+203837	M0745387	Kodungaiyur Muthamizh Nagar Church
+203830	N0552581	Villivakkam Subway
+203868	M1049265	Pallikaranai Oil Mill Bus Stop
+203833	K1126033	Madhavaram MMC Bus Stop
+203867	N0251140	Thiruninravur Jaya School Bus Stop
+203829	M0846836	Kolathur GKM Colony
+203833	M0644001	Madhavaram MMC Bus Stop
+203824	L1033672	Pallikaranai Bus Stop
+203758	H0413146	Nandanam Bus Stop
+203812	M0847007	Velacherry Baby Nagar Bus Stop
+203841	M0543252	Vyasarpadi Bus Stop
+203836	M0745563	Manali Bus Stop
+203854	M0339792	Villivakkam Bus Stand
+203836	M0643638	Manali Bus Stop
+203833	N0553024	Madhavaram MMC Bus Stop
+203888	M0542720	Redhills Koot Road
+203825	N0351630	Kolathur Periyar Nagar EB
+203753	N0150806	Thiruverkadu Bus Depot
+203869	D091505	Pattabiram Bus Stop
+203763	M0441456	Triplicane Post Office
+203825	M0644289	Kolathur Poombugar nagar bus stop
+203749	L0126931	Medavakkam Bus Stop
+203795	I0617124	Tambaram Camp Road
+203806	M0238685	Pallavaram Bus Stop
+203782	M1149848	Virugambakkam Bus Stop
+203784	M0643790	Mogappair 7H Bus Stop
+203821	N0452508	Perambur Agaram Bus Stop
+203802	M0643579	Chrompet Bus Stop
+203860	M0441522	Kilpauk New Avadi Road
+203786	L0126776	Maduravoyal EB office
+203802	L1236117	Tambaram Sanitorium TB Hospital
+203794	M0746228	Thoraipakkam PTC Quarters Bus Stop
+203768	M1150061	Choolaimedu Mehta Nagar Bus Stop
+203788	F075615	Urapakkam Bus Stop
+203869	M0847204	Thirunindravur Bus Stop
+203886	N0653125	Ayapakkam ICF Colony
+203880	N0251031	Thirumulaivoyal Bus Stop
+203888	M0137488	Redhills Bus Stop
+203763	N0552938	Triplicane Bus Stop
+203789	N0452129	Urapakkam Bus Stop
+203807	N0351243	Pammal Bus Stop
+203779	M0136789	K K Nagar Bus Stop
+203827	L1235477	Kolathur Vinayagapuram
+203840	L1236150	MKB Nagar Bus Stop
+203821	K1126139	Perambur Agaram Bus Stop
+203795	I0617308	Tambaram Camp Road
+203881	L1236114	Ambattur Ramaswamy School
+203856	M0847208	Vepery Vetnary Hospital
+203879	M0948130	Ramapuram DLF
+203783	M0948111	Thoraipakkam PTC Quarters Bus Stop
+203778	N0251184	Mogappair West Golden Flats Bus Stop
+203788	M0440978	Urapakkam Bus Stop
+203854	M0440810	Ayanavaram Bus stop
+203846	M0846379	Ullagaram Bharath Petroleum Bunk
+203751	N0452202	Iyyapanthangal Bus Stop
+203754	M1150065	Thiruverkadu Bus Depot
+203796	M1150115	Tambaram Camp Road
+203873	M1150112	Avadi Kannigapuram Bus Stop
+203782	N0653293	Saligramam Dasarathapuram
+203948	M0948843	Old Washermenpet Bus Stop
+203777	N0452481	Mogappair Collector Nagar Bus stop
+203810	L0932885	Velacherry 100 Ft Road
+203791	M0746087	Perungalathur Bus Stop
+203866	M1049405	Avadi Hindu College Railway Station
+203780	N0351804	Valasaravakkam Bus Stop
+203886	N0653197	Ayapakkam ICF Colony
+203789	N0552847	Urapakkam Bus Stop
+203838	N0351748	Vyasarpadi Erukancherry Bus Stop
+203761	J0220284	St Thomas Mount Bus Stop
+203813	M0847338	Medavakkam Bus Stop
+203877	M1150101	Annanur Railway Station
+203793	K0825117	Tambaram Camp Road
+203802	L1235538	Tambaram Sanitorium Bus Stop
+203888	F065325	Redhills Bus Stop
+203807	M0340293	Anakaputhur Bus Stop
+203890	K1126031	Nanganallur Bus Stop
+203864	N0552709	Thirunindravur Bus Stop
+203779	M0847856	K K Nagar Bus Stop
+203900	N0452142	Kundrathur Periyar Nagar
+203767	M0339447	T Nagar Bus Stop
+203897	M0949015	Ambattur Estate MTC Bus Depot
+203831	M0239096	Manali Bus Stop
+203821	N0452315	Perambur Agaram Bus Stop
+203805	N0552899	Perungudi Bus Stop
+203800	N0251212	Old Perungalathur Bus Stop
+203832	N0251138	Mathur Bus Stop
+203777	M0948983	CMBT Bus Stop
+203833	F014485	Madhavaram Arul Nagar Bus Stop
+203945	N0351436	Ramapuram Signal
+203862	K0224137	Thiruninravur Nemilichery
+203771	M0948918	Shenoy Nagar TVK Park
+203851	N0452030	Ayanavaram TB hospital
+203818	M0542384	Mugallivakam Bus Stop
+203779	M0542391	K K Nagar RTO Office
+203831	M0441577	Manali Bus Stop
+203817	M0239070	Porur Mugalivakkam
+203847	N0351712	Tondiarpet Apollo Hospital
+203892	M1149767	Surapet Shanmugapuram
+203857	M0745866	Kilkattalai Bus Stop
+203852	J0721676	Royapuram kalmandabam
+203789	N0552573	Urapakkam Bus Stop
+203865	H0914913	Avadi Bus Stop
+203762	M0136522	Royapettah Police Station
+203780	N0552603	Valasaravakkam Bus Stop
+203796	M0339944	Tambaram Camp Road
+203833	J0421119	Madhavaram MMC Bus Stop
+203828	M1150119	Kolathur Teachers Colony
+203822	N0452019	Perambur Ponniammanmedu
+203761	N0553080	St Thomas Mount Bus Stop
+203771	N0553030	Shenoy Nagar TVK Park
+203843	N0452341	Thiruvottiyur Ajex Bus Stop
+203833	N0351715	Madhavaram MMC Bus Stop
+203832	N0653250	Mathur Bus Stop
+203759	L1236039	Mogappair MMM Hospital
+203750	K0324344	Adambakkam Police station
+203859	M0238261	Choolai Post Office
+203775	M0441405	Kodambakkam Bus Stop
+203760	L0932115	Mandaveli Bus Stop
+203855	M0948220	Broadway Excellent Hotel
+203810	M0948896	Velacherry 100 Ft Road
+203883	M0643590	Thirumulaivoyil Housing Board
+203842	L1134940	Thiruvottiyur Ajex Bus Stop
+203798	M0441895	Mudichur Bus Stop
+203840	M1150375	Vyasarpadi Mullai Nagar Bus Stop
+203886	K0123692	Ayyapakkam Athipet
+203798	M1049032	Mudichur Bus Stop
+203761	N0552991	Ramapuram DLF
+203840	M0948915	MKB Nagar Bus Stop
+203849	G027439	Old Washermenpet Cemetry Road
+203827	M1049401	Kolathur Vinayagapuram
+203827	M1049440	Kolathur Vinayagapuram
+203820	M0136852	Perumbur Brindha Theater
+203812	L1235607	Velachery Dhandeeswaram Bus Stop
+203852	M0948171	Royapuram Bus Stop
+203838	M0137169	Vyasarpadi Erukancherry Bus Stop
+203759	M0644437	Mogappair MMM Hospital
+203849	N0250952	Old Washermanpet Maharani bus stop
+203775	M0543275	Kodambakkam Power House
+203862	L0328090	Thirunindravur Railway Station
+203749	N0452500	Medavakkam Koot Road
+203777	M0339802	Ashok Nagar Jafferkhanpet
+203774	M0948993	West Mambalam Ramakrishna Puram
+203860	M0745700	Kilpauk Ega theatre
+203796	M0643437	Tambaram Camp Road
+203756	N0150655	Porur Bai kadai
+203752	N0552548	Poonamallee Kallarai Bus Stop
+203794	N0351731	Thoraipakkam PTC Quarters Bus Stop
+203772	N0452047	Porur Signal
+203785	M0643883	Mogappair Nolambur
+203770	M1049212	MMDA Colony
+203782	N0351340	Saligramam Dasarathapuram
+203768	M0744992	Choolaimedu Mehta Nagar Bus Stop
+203795	N0351420	Tambaram Camp Road
+203857	L1235604	Kilkattalai Bus Depot
+203761	N0351424	Porur Signal
+203776	N0150682	Ekkatuthangal Bus Stop
+203897	M0237867	Ambattur Estate MTC Bus Depot
+203833	F085955	Madhavaram Arul Nagar Bus Stop
+203829	N0452345	Ambattur Mannurpet Bus Stop
+203804	M1049422	Pammal Bus Stop
+203827	N0452358	Kolathur Vinayagapuram
+203823	N0552877	Kolathur Anna Salai Bus Stop
+203823	M0339903	Kolathur Anna Salai Bus Stop
+203756	M0136792	Porur Madhnandapuram
+203823	M0137142	Thiru.Vi.Ka. Nagar Police Station
+203866	N0452227	Pattabiram Bus Stop
+203818	M0137026	Alapakkam Bus Stop
+203760	M0542842	Anna Nagar West Bus Stop
+203767	N0653193	Mogappair Collector Nagar Bus stop
+203837	M1250537	Kodungaiyur Bus Stop
+203844	M0846850	Thiruvottriyur Raja Kadai Bus stop
+203779	M0238930	Virugambakkam Bus Stop
+203896	M0746065	Menambedu Alamaram Bus Stop
+203827	M0847449	Kolathur Vinayagapuram
+203816	L0227128	Arasamaram Ramapuram
+203774	N0552764	West Mambalam Ramakrishna Puram
+203813	L1134928	Medavakkam Bus Stop
+203774	M1049185	Mogappair West Golden Flats Bus Stop
+203749	M1049424	Medavakkam Bus Stop
+203894	N0351245	Ambattur Oragadam
+203826	N0552649	Kolathur Bus Stop
+203778	M0339998	Vadapalani Thirunagar Bus Stop
+203854	M0948453	Ayanavaram Noor Hotel
+203851	N0552590	Ayanavaram Noor Hotel
+203847	I0818039	Tondiarpet Apollo Hospital
+203790	M0948488	Urapakkam Bus Stop
+203780	L1235993	Valasaravakkam Mega Mart
+203781	N0553025	Nesapakkam Bus Stop
+203852	M0846579	Royapuram Kasimedu Signal
+203753	L0932733	Thiruverkadu Bus Depot
+203862	N0553023	Pattabiram Grace Hospital
+203808	N0552699	Porur Bai kadai
+203806	M0440812	Pallavaram Police Station
+203806	M0948944	Pallavaram Bus Stop
+203755	M1150060	Kovur Bus Stop
+203788	E062843	Urapakkam Bus Stop
+203787	M0948419	Madhuravoyal Erikkari Bus Stop
+203881	N0150590	Ambattur Canara Bank
+203814	F085982	Thiruvanmiyur RTO Office
+203807	N0452489	Pammal Bus Stop
+203855	M1049558	Broadway Excellent Hotel
+203881	M0644562	Ambattur Telephone Exchange
+203802	M0948652	Tambaram Sanitorium TB Hospital
+203862	M0136630	Pattabiram Bus Stop
+203843	M0948458	Thiruvottiyur Ajex Bus Stop
+203770	M0238898	Mogappair Collector Nagar Bus stop
+203811	M0745998	Velacherry 100 Ft Road
+203871	L0227483	Avadi Kannigapuram Bus Stop
+203809	M0846341	Guindy Madhuvangarai Bridge
+203757	M0948462	Stella Mary's College
+203783	M0441198	Thoraipakkam PTC Quarters Bus Stop
+203770	M0238820	MMDA Colony
+203785	M0441264	Mogappair West Bus Depot
+203788	M0644683	Urapakkam Bus Stop
+203875	M0643802	Avadi Velltech Colege
+203760	M0948257	Anna Nagar West Bus Stop
+203866	M0847468	Pattabiram Railway Gate
+203776	M0948459	Ekkatuthangal Bus Stop
+203814	M0542209	Thiruvanmiyur RTO Office
+203842	M0340639	Thiruvottiyur Ajex Bus Stop
+203837	M0441162	Kodungaiyur Muthamizh Nagar Church
+203812	M0745867	Velachery TCS
+203815	N0552987	Thiruvanmiyur Bus Stop
+203892	L1134898	Ambattur Telephone Exchange
+203892	H0312836	Ambattur Ramaswamy School
+203870	N0553009	Avadi Bus Stop
+203871	M0441905	Avadi TNHB Colony
+203770	N0552783	Arumbakkam NSK Nagar
+203841	M0339268	Vyasarpadi Fire Station
+203794	N0452452	Thoraipakkam PTC Quarters Bus Stop
+203787	M1049682	Nerkundram Bus Stop
+203780	M1049105	Valasaravakkam Bus Stop
+203781	N0552557	Nesapakkam Bus Stop
+203870	L0428587	Pattabiram Railway Gate
+203813	N0150635	Medavakkam Bus Stop
+203755	H0513381	Kovur Bus Stop
+203842	M0542777	Thiruvottiyur Ajex Bus Stop
+203801	M0847378	Chrompet Bus Stop
+203785	M0846523	Mogappair Nolambur
+203811	J0922490	Velacherry Vijayanagar Bus Stop
+203854	N0452053	Ayanavaram Bus stop
+203789	M0846843	Urapakkam Bus Stop
+203880	M0745898	Thirumullaivoyal Shiva Temple
+203882	M0846411	Thirumullaivoyal Manikandapuram bus stop
+203799	M0643577	Tambaram West Bus Stop
+203840	N0150849	Vyasarpadi Sharma Nagar
+203867	M0441657	Avadi Checkpost
+203792	M1149793	Perungalathur Bus Stop
+203803	N0251146	Chrompet Bus Stop
+203769	M1150135	Choolaimedu Mehta Nagar Bus Stop
+203762	M0137449	Anna Nagar Shanthi Colony
+203768	M0542861	Choolaimedu Gill Nagar Park
+203782	N0452020	Saligramam Bus Stop
+203795	N0452225	Irumbuliyur Bus Stop
+203868	M0339429	Pallikaranai Bus Stop
+203880	M0542859	Thirumulaivoyal Bus Stop
+203810	L1134770	Velacherry 100 Ft Road
+203791	M0136688	New Perungalathur Bus Stop
+203806	M0441466	Pallavaram Bus Stop
+203766	M0339882	Anna Nagar 12th Main Road
+203856	N0552704	Vepery Vetnary Hospital
+203847	N0250953	Tondiarpet Apollo Hospital
+203774	M0239078	West Mambalam Ramakrishna Puram
+203885	M0644188	Ayapakkam TNHB Colony
+203895	L1033349	Pudur Bus Stop
+203845	L1235449	Thiruvottiyur Theradi Bus Stop
+203877	M0745841	Annanur Railway Station
+203762	L1236093	Royapettah New College
+203851	N0452420	Pattalam Bus Stop
+203843	L1236288	Thiruvotriyur Market Bus Stop
+203839	L0227174	Kodungaiyur MR Nagar Bus Stop
+203864	M0745736	Thirunindravur Railway Station
+203864	M1049044	Pattabiram Bus Stop
+203806	N0552697	Pallavaram Bus Stop
+203847	L1236287	Tondiarpet Apollo Hospital
+203859	N0251046	Purasaivakkam Thana Street
+203756	N0351512	Porur Madhnandapuram
+203828	M0847986	Kolathur Teachers Colony
+203899	M0644207	Mangadu Bus Stop
+203875	N0251029	Avadi Velltech Colege
+203894	M1250448	Ambattur Oragadam
+203837	N0552632	Kodungaiyur Bus Stop
+203867	M0948425	Thirunindravur Bus Stop
+203773	M0137472	Thirumangalam Bus Stop
+203836	M0340467	Madhavaram Bus Stop
+203849	L0932119	Tondiarpet Apollo Hospital
+203820	N0552995	Kolathur Anna Salai Bus Stop
+203868	L1034121	Pallikaranai Bus Stop
+203898	M0847979	Poonamalee Bus Stop
+203786	N0452495	Maduravoyal EB office
+203886	M0644550	Ayyapakkam Athipet
+203801	M0847981	Chrompet Bus Stop
+203874	M0137800	Avadi Paruthipattu
+203814	M0643791	Thiruvanmiyur RTO Office
+203787	M0846532	Maduravoyal MGR University
+203900	M0948703	Kundrathur Police Station
+203876	M0948424	Avadi Murugappa polytechnic
+203883	N0452322	Thirumullaivoil Railway Station
+203755	L1134814	Kovur Bus Stop
+203947	M0948565	Mogappair West Bus Depot
+203775	M0847492	Kodambakkam Bus Stop
+203845	M0441731	Thiruvottiyur Kaladipet Bus Stop
+203798	M0441450	Mudichur Bus Stop
+203790	E022271	Urapakkam Bus Stop
+203780	M0847285	Valasaravakkam Bus Stop
+203782	M0542334	Saligramam SSR Pankajam Theatre
+203876	M1049403	Thirumullaivoyal Steford Bus Stop
+203885	M0340642	Ayapakkam TNHB Colony
+203771	M0543010	Mogappair Collector Nagar Bus stop
+203894	N0552886	Ambattur Oragadam
+203850	M0542320	Old Washermenpet Stanley Bus Stop
+203850	N0351246	Old Washermenpet Bus Stop
+203807	L1236102	Anakaputhur Bus Stop
+203863	M1049426	Thirunindravur Railway Station
+203768	N0351670	Choolaimedu Mehta Nagar Bus Stop
+203827	M0643705	Kolathur Vinayagapuram
+203812	M0644682	Velachery TCS
+203849	M0948416	Old Washermenpet Cemetry Road
+203817	M0847172	Alapakkam Bus Stop
+203870	M0644761	Pattabiram Grace Hospital
+203775	M0238459	Kodampakkam Trustpuram Ground
+203819	M0948950	Perambur Lakshmiamman Koil
+203885	M0745151	Ayapakkam ICF Colony
+203869	M0745914	Thiruninravur Nemilichery
+203897	M0441724	Menambedu Bus Stop
+203779	M0847461	K K Nagar Bus Stop
+203837	N0250949	Kodungaiyur Bus Stop
+203750	M0440845	Adambakkam Police station
+203894	M0137155	Ambattur Oragadam
+203859	K1125841	Ayanavaram Joint Office Bus Stop
+203899	M0644819	Mangadu Bus Stop
+203824	N0251190	Pallikaranai Bus Stop
+203832	M0136831	Mathur Bus Stop
+203811	L0227436	Velacherry 100 Ft Road
+203821	M0948659	Perambur Venus Bus Stop
+203817	M0441003	Porur Alapakam Bus Stop
+203828	N0653230	Kolathur Teachers Colony
+203778	M0643971	Thirumangalam Bus Stop
+203825	L1134780	Kolathur Poombugar nagar bus stop
+203832	M0948137	Mathur Bus Stop
+203818	M0644701	Mugallivakam Bus Stop
+203759	M0847982	Mylapore Tank
+203821	M0948423	Perambur Agaram Bus Stop
+203822	M1049278	Kolathur Moogambigai Kovil Bus Stop
+203792	M0441237	Urapakkam Bus Stop
+203770	N0552574	Aminjikarai Tolgate Bus Stop
+203876	N0351448	Avadi Kovilpadhagai bus stop
+203810	N0452270	Velacherry Vijayanagar Bus Stop
+203779	M1049263	K K Nagar Bus Stop
+203802	M0948118	Chrompet Bus Stop
+203852	M0340732	Royapuram kalmandabam
+203761	L1235596	St Thomas Mount Bus Stop
+203892	M0137135	Ambattur Ramaswamy School
+203865	N0250971	Pattabiram Bus Stop
+203819	M0237863	Perambur Lakshmiamman Koil
+203897	M0948092	Ambattur Estate MTC Bus Depot
+203836	N0452289	Manali Bus Stop
+203895	M0745393	Pudur Bus Stop
+203779	M0948121	MGR Nagar Market
+203897	N0552593	Menambedu Bus Stop
+203843	M0441781	Thiruvottiyur Ajex Bus Stop
+203821	M0137146	Padi Brittania Bus Stop
+203794	N0452323	Thoraipakkam PTC Quarters Bus Stop
+203802	G1110828	Tambaram Sanitorium Bus Stop
+203848	L1033889	Tondiarpet IOC Bus Stop
+203850	E113957	Old Washermenpet Stanley Bus Stop
+203849	M0643617	Old Washermanpet Maharani bus stop
+203872	M0239048	Avadi TNHB Colony
+203798	K1226203	Mudichur Bus Stop
+203800	M0137517	Old Perungalathur Bus Stop
+203871	M0340173	Avadi Ponnu Super Market
+203787	M0643811	Madhuravoyal Erikkari Bus Stop
+203891	N0251186	Redhills Koot Road
+203834	M0745515	Madhavaram Bus Stop
+203843	M0340627	Thiruvotriyur Market Bus Stop
+203830	M0643771	Kolathur GKM Colony
+203876	L1235509	Avadi Kovilpadhagai bus stop
+203893	M0441882	Kallikuppam Arch Bus Stop
+203841	M0644393	Vyasarpadi Bus Stop
+203873	F096184	Avadi kamaraj Nagar Bus Stop
+203868	M0847864	Pallikaranai Oil Mill Bus Stop
+203812	H0714484	Velacherry Baby Nagar Bus Stop
+203892	N0250979	Ambattur Telephone Exchange
+203899	M0745748	Mangadu Bus Stop
+203782	N0653383	Saligramam SSR Pankajam Theatre
+203763	N0552768	Triplicane Bus Stop
+203755	L1134982	Kovur Bus Stop
+203851	M0644064	Pattalam Bus Stop
+203797	M0137102	Tambaram East Bus Stop
+203788	M0847437	Urapakkam Bus Stop
+203774	M0137137	Vadapalani Signal
+203791	N0552902	New Perungalathur Bus Stop
+203867	M0542840	Thirunindravur Railway Station
+203884	D05989	Ayyapakkam TNHB Colony
+203796	M0137208	Tambaram Camp Road
+203878	N0452186	Avadi Mitnamalli Railway Station
+203883	L0529426	Thirumulaivoyil Housing Board
+203830	M0542934	Villivakkam Sidco Nagar
+203882	M0744940	Thirumullaivoyal Manikandapuram bus stop
+203791	N0452513	New Perungalathur Bus Stop
+203793	J1223323	Tambaram Camp Road
+203885	N0150664	Ayapakkam TNHB Colony
+203765	J0621598	Thirumangalam Bus Stop
+203758	M0542561	Teynampet SIET College
+203817	M0137422	Porur Mugalivakkam
+203767	I0516871	Aminjikarai Tolgate Bus Stop
+203769	N0452234	Choolaimedu Bata Show Room
+203749	N0552905	Medavakkam Koot Road
+203889	N0552584	Puzhal kavangarai Bus Stop
+203765	N0552627	Mogappair Collector Nagar Bus stop
+203816	N0351249	Arasamaram Ramapuram
+203888	M1049439	Redhills Bus Stop
+203783	N0251077	Thoraipakkam PTC Quarters Bus Stop
+203796	M0745699	Tambaram Camp Road
+203807	M0744933	Pammal Bus Stop
+203752	M0644573	Poonamallee Kattupakkam Bus Stop
+203885	M0238753	Ayapakkam ICF Colony
+203881	N0452122	Ambattur Telephone Exchange
+203784	M0339564	Mogappair JJ Nagar Bus Stop
+203888	M0340464	Redhills Bus Stop
+203756	M1049217	Porur Bai kadai
+203880	M1149851	Thirumulaivoyal Bus Stop
+203787	N0351709	Maduravoyal EB office
+203889	M0339782	Puzhal kavangarai Bus Stop
+203792	C08427	Urapakkam Bus Stop
+203873	J0822072	Avadi Rama rathna theatre
+203811	J1122914	Velacheriy Check Post
+203797	M0644424	Tambaram East CSI Church
+203756	M0542017	Porur Madhnandapuram
+203875	N0552587	Avadi Velltech Colege
+203772	M0542796	Porur Toll Gate
+203891	N0452349	Redhills Koot Road
+203791	N0150599	New Perungalathur Bus Stop
+203785	M0948645	Mogappair West Bus Depot
+203773	H0814561	Saidapet Jeyaraj Theatre
+203839	N0150671	Kodungaiyur MR Nagar Bus Stop
+203794	M0137060	Thoraipakkam PTC Quarters Bus Stop
+203879	N0452492	Ramapuram Signal
+203799	L1134660	Tambaram West Bus Stop
+203794	N0251144	Thoraipakkam PTC Quarters Bus Stop
+203898	L0630260	Poonamalee Bus Stop
+203873	N0251147	Avadi kamaraj Nagar Bus Stop
+203860	N0552761	Kilpauk New Avadi road V.O.C Bus Stop
+203893	N0452199	Kallikuppam Bus Stop
+203846	N0351809	Kovilambakkam Bus Stop
+203781	N0251025	MGR Nagar Market
+203754	M0644187	Thiruverkadu Police Station
+203898	N0653252	Poonamalee Bus Stop
+203828	M0643598	Korattur Bus Stand
+203829	M0339883	Kolathur GKM Colony
+203810	N0452415	Velacherry Vijayanagar Bus Stop
+203869	M0847441	Thiruninravur Nemilichery
+203823	M0644552	Peravallur Bus Stop
+203843	M0340523	Thiruvotriyur Railway Station
+203814	M0948479	Guindy Butt Road
+203830	I0517020	Villivakkam Sidco Nagar
+203778	M0745725	Vadapalani Thirunagar Bus Stop
+203895	M0948907	Pudhur N K Mahal
+203837	M0948469	Kodungaiyur Bus Stop
+203777	M0948842	MMDA Bus Stop
+203779	M0440949	Virugambakkam Bus Stop
+203860	M1049352	Kilpauk New Avadi Road
+203762	M1049668	Royapettah Ice House Police Station
+203861	J0119695	Thirunindravur Railway Station
+203893	M0948822	Kallikuppam Arch Bus Stop
+203766	M0541960	Kotturpuam AMM School
+203880	M0238690	Thirumullaivoyal Shiva Temple
+203865	M0441274	Avadi Sekadu Bus Stop
+203843	M0948668	Thiruvottiyur Ajex Bus Stop
+203791	M0238499	New Perungalathur Bus Stop
+203891	N0351727	Redhills Bus Stop
+203801	M0744976	Tambaram Sanitorium Bus Stop
+203877	M0340684	Thirumullaivoyal Steford Bus Stop
+203883	E073128	Thirumulaivayal Kannan Theatre
+203789	N0653336	Urapakkam Bus Stop
+203872	M0948415	Avadi Checkpost
+203765	M0339413	Mogappair Collector Nagar Bus stop
+203765	N0251208	Chetpet Bus Stop
+203771	N0251159	Anna Nagar 12th Main Road
+203875	N0452195	Avadi Velltech Colege
+203866	L0327898	Avadi Hindu College Railway Station
+203878	H0513530	Avadi Muthapudhupet Police Station
+203810	L0730766	Velacherry Vijayanagar Bus Stop
+203872	M0644679	Avadi TNHB Colony
+203782	M0847457	Virugambakkam Bus Stop
+203887	J0521479	Ayyapakkam Athipet
+203856	M0644367	Periamet Bus Stop
+203826	M0543304	Kolathur RTO Bus Stop
+203788	M0948467	Urapakkam Bus Stop
+203791	M0339607	Perungalathur Bus Stop
+203791	M0441737	Perungalathur Bus Stop
+203766	N0552639	Kotturpuam AMM School
+203865	M0948216	Avadi Hindu College Railway Station
+203797	N0351633	Tambaram East Bus Stop
+203751	M0745215	Iyyapathangal Bus Depot
+203764	M0340488	Chepauk Stadium Bus Stop
+203781	M0745276	Mogappair Collector Nagar Bus stop
+203855	M0542413	Broadway Excellent Hotel
+203844	M0543085	Thiruvottiyur Tolgate Bus Stop
+203857	M0340591	Kilkattalai Bus Stop
+203882	M0847534	Thirumullaivoyal Manikandapuram bus stop
+203760	M0238716	Mandaveli Bus Stop
+203793	M0746092	Tambaram Camp Road
+203849	L1236036	Tondiarpet Apollo Hospital
+203882	M0948103	Thirumullaivoyal Steford Bus Stop
+203842	M0846635	Thiruvottiyur Ajex Bus Stop
+203788	L0730965	Urapakkam Bus Stop
+203762	N0452362	Kilpauk Ega theatre
+203773	M0339846	Saidapet Jones Road
+203898	M0137351	Poonamallee Bus Depo
+203774	M0339435	Mogappair West Golden Flats Bus Stop
+203768	M1150030	Choolaimedu Mehta Nagar Bus Stop
+203751	L0328465	Iyyapanthangal Bus Stop
+203873	M0137288	Avadi kamaraj Nagar Bus Stop
+203873	M0847873	Avadi kamaraj Nagar Bus Stop
+203887	N0250969	Ayyapakkam TNHB Colony
+203820	L0227486	Perambur S2 Theatre Sembium
+203785	M0543263	Mogappair West Bus Depot
+203781	M0948872	Chinmaya Nagar Bus Stop
+203859	M0847652	Purasaivakkam Thana Street
+203791	M0239135	Vandaloor Bus Stop
+203772	M0745418	Porur Signal
+203784	M0339445	Mogappair 7H Bus Stop
+203785	L1134778	Mogappair West Bus Depot
+203887	N0552941	Ayyapakkam TNHB Colony
+203844	N0351671	Thiruvottriyur Raja Kadai Bus stop
+203769	M0339959	Choolaimedu Bus Stop
+203794	N0452416	Thoraipakkam Signal
+203874	M0948213	Ayyapakkam Athipet
+203881	N0251162	Ambattur Ponnu Super Market
+203761	M0441316	Guindy Butt Road
+203771	N0653395	Anna Nagar 12th Main Road
+203765	M0542834	Chetpet Bus Stop
+203789	M0744845	Urapakkam Bus Stop
+203870	M1049224	Pattabiram PTMS Railway
+203765	N0250970	Chetpet Bus Stop
+203854	K1226613	Villivakkam ICF Bus Stop
+203875	M0644402	Avadi Velltech Colege
+203819	I1219429	Perambur Eswari kalyana Mandabam
+203826	L1236299	Kolathur DRJ Hospital
+203773	M0543295	West Saidapet Bus
+203869	L1134405	Thirunindravur Bus Stop
+203882	M1049388	Thirumullaivoyal Steford Bus Stop
+203797	I1219432	Tambaram East Bus Stop
+203768	M0948976	Choolaimedu Periyar Pathai
+203840	L1033500	Vyasarpadi Sharma Nagar
+203782	M0644835	Saligramam Bus Stop
+203880	E062872	Thirumulaivoyal Bus Stop
+203809	N0653191	Taramani Bharathi Nagar Bus Stop
+203787	M0238495	Nerkundram Bus Stop
+203797	M0948702	Tambaram East Bus Stop
+203889	M0339904	Puzhal kavangarai Bus Stop
+203750	M0441906	Adambakkam NGO Colony bus Stop
+203752	M0339801	Iyyapathangal Bus Depot
+203842	M0238300	Thiruvottiyur Ajex Bus Stop
+203782	M0542423	Saligramam Dasarathapuram
+203807	K1126043	Pammal Bus Stop
+203749	M1150041	Medavakkam Koot Road
+203895	J0922479	Pudur Bus Stop
+203890	M0340631	Nanganallur Market
+203808	N0150668	Porur Bai kadai
+203836	M0542431	Manali Bus Stop
+203823	L0328181	Kolathur TVK Nagar Bus Stop
+203831	M1049053	Manali Bus Stop
+203829	M1049386	Kolathur GKM Colony
+203824	L0227434	Ramapuram Signal
+203861	N0552711	Thirunindravur Bus Stop
+203862	H0412892	Thirunindravur Railway Station
+203835	M0542164	Madipakkam Ram Nagar
+203770	N0452224	Arumbakkam NSK Nagar
+203899	M0542196	Poonamallee Kumananchavadi Bus Stop
+203897	M0948908	Menambedu Bus Stop
+203895	M0441740	Ambattur Ponnu Super Market
+203778	M0948484	Mogappair Collector Nagar Bus stop
+203774	K1025563	West Mambalam Ramakrishna Puram
+203853	J0822067	Padi Brittania Bus Stop
+203816	M0847485	Mogappair West Bus Depot
+203844	M1149796	Thiruvottiyur Tolgate Bus Stop
+203890	L1134388	Nanganallur Bus Stop
+203813	L1033837	Medavakkam Koot Road
+203834	M0440908	Madhavaram Thapalpetti
+203804	L1033310	Pammal Bus Stop
+203830	M0847442	Villivakkam Sidco Nagar
+203837	M0340634	Kodungaiyur Muthamizh Nagar Church
+203898	L0932173	Poonamalee Bus Stop
+203826	M1049184	Kolathur DRJ Hospital
+203845	N0251141	Thiruvotriyur Railway Station
+203854	L1236300	Ayanavaram Noor Hotel
+203890	L0227309	Nanganallur Bus Stop
+203785	M0340740	Mogappair JJ Nagar Bus Stop
+203778	N0351248	Vadapalani Thirunagar Bus Stop
+203823	H0914832	Kolathur TVK Nagar Bus Stop
+203769	M0847206	Choolaimedu Periyar Pathai
+203798	E114123	Mudichur Bus Stop
+203791	M0643735	Perungalathur Bus Stop
+203875	M1150129	Avadi Velltech Colege
+203869	M0948110	Thirunindravur Bus Stop
+203883	N0251173	Thirumulaivoyil Housing Board
+203764	M0643978	Thirumangalam Bus Stop
+203839	M0948150	Kodungaiyur Kannadasan Nagar Bus Stop
+203857	M1049234	Kilkattalai Bus Depot
+203854	G0910367	Villivakkam ICF Bus Stop
+203865	L1134559	Avadi Reliance Petrol Bunk
+203829	M0441269	Kolathur GKM Colony
+203856	N0351851	Kilpauk Garden
+203898	M0339875	Poonamallee Bus Depo
+203829	M0542564	Kolathur GKM Colony
+203884	M0440996	Annanur Railway Station
+203813	N0452506	Medavakkam Bus Stop
+203771	M0339560	Mogappair Collector Nagar Bus stop
+203830	I0516639	Villivakkam Subway
+203857	M0847130	Kilkattalai Bus Depot
+203855	M0440973	Broadway Excellent Hotel
+203767	M0643809	Mogappair Collector Nagar Bus stop
+203835	M0948414	Madipakkam Bus Stop
+203900	N0351250	Kundrathur Bus Stop
+203891	N0552594	Redhills Bus Stop
+203810	M0846595	Velacherry Railway Station
+203811	M0644828	Velacherry Vijayanagar Bus Stop
+203900	M0948134	Kundrathur Bus Stop
+203834	M1049686	Madhavaram Bus Stop
+203805	M0847870	Thoraipakkam Signal
+203821	M1150054	Perambur Venus Bus Stop
+203814	M0644555	Thiruvanmiyur Bus Stop
+203776	L0529560	Ekkatuthangal Bus Stop
+203757	N0452201	Mogappair West Golden Flats Bus Stop
+203776	N0452486	Ekkatuthangal Bus Stop
+203791	M1049038	New Perungalathur Bus Stop
+203899	N0251122	Karayanchavadi Bus Stop
+203771	M1250436	Shenoy Nagar TVK Park
+203853	M0948527	Padi Brittania Bus Stop
+203776	L1235999	Ekkatuthangal Bus Stop
+203851	N0452214	Otteri Bus Stop
+203863	L1033307	Thirunindravur Bus Stop
+203818	N0452005	Mugallivakam Bus Stop
+203757	M1149766	Thirumangalam Bus Stop
+203761	M0339280	Guindy Butt Road
+203864	L0327870	Thirunindravur Railway Station
+203841	N0552635	Vysarpadi Kannigapuram Bus Stand
+203777	M1150268	Ekkatuthangal Bus Stop
+203848	M0136477	Tondiarpet IOC Bus Stop
+203897	N0552914	Ambattur Estate MTC Bus Depot
+203831	M0441684	Manali Bus Stop
+203814	M0541946	Thiruvanmiyur RTO Office
+203884	M0339424	Ayyapakkam TNHB Colony
+203832	J1122920	Mathur Bus Stop
+203770	M1049429	MMDA Colony
+203878	K0123563	Avadi Muthapudhupet Police Station
+203864	J0421110	Thirunindravur Bus Stop
+203762	M0137465	Royapettah Zam Bazaar Police Station
+203771	M1150029	Mogappair Collector Nagar Bus stop
+203813	L0730747	Medavakkam Bus Stop
+203877	M1049486	Ambattur OT Bus Station
+203757	L0932390	Thirumangalam Bus Stop
+203880	M0237860	Thirumullaivoyal Shiva Temple
+203870	M0643817	Pattabiram Grace Hospital
+203886	M0136532	Ayapakkam Water Tank
+203862	M0339750	Thiruninravur Nemilichery
+203793	K1125979	Tambaram Camp Road
+203780	J0320409	Valasaravakkam Bus Stop
+203793	K1226603	Tambaram Camp Road
+203781	J0721821	MGR Nagar Market
+203880	K1126048	Thirumullaivoyal Shiva Temple
+203879	N0452131	Ramapuram DLF
+203878	I0516576	Ambattur Canara Bank
+203755	M0745002	Kovur Bus Stop
+203841	M0745549	Vyasarpadi Fire Station
+203874	M1049493	Avadi Kovarthanagiri Bus Stop
+203754	N0251112	Thiruverkadu Police Station
+203839	M0846645	Kodungaiyur Kannadasan Nagar Bus Stop
+203947	M0339335	Ayapakkam TNHB Colony
+203817	M1149800	Porur Mugalivakkam
+203773	M0644568	Saidapet Railway Station
+203853	M0441508	Villivakkam Nadhamuni Bus Stop
+203819	M0847380	Perambur Lakshmiamman Koil
+203861	G1211104	Thirunindravur Bus Stop
+203826	M0238277	Perambur Ponniammanmedu
+203834	N0653251	Madhavaram Bus Stop
+203812	N0251180	Velacherry Baby Nagar Bus Stop
+203839	M0137499	Kodungaiyur MR Nagar Bus Stop
+203757	M0948491	Thirumangalam Bus Stop
+203807	N0251185	Pammal Bus Stop
+203779	N0351398	K K Nagar Bus Stop
+203883	M0746094	Thirumulaivayal Kannan Theatre
+203895	K0324257	Pudur Bus Stop
+203870	M0339576	Pattabiram PTMS Railway
+203811	M0238819	Guindy Madhuvangarai Bus Stop
+203786	N0351714	Maduravoyal EB office
+203786	M1150372	Madhuravoyal Market
+203762	N0351272	Anna Nagar 12th Main Road
+203884	M0847491	Annanur Railway Station
+203805	N0653385	Perungudi Bus Stop
+203824	M0948991	Porur Signal
+203830	N0552592	Villivakkam Sidco Nagar
+203775	M0846408	Kodambakkam Power House
+203822	N0452342	Kolathur Kumaran Nagar Bus Stop
+203830	N0552622	Kolathur GKM Colony
+203860	L0730837	Kilpauk New Avadi Road
+203891	H1215451	Redhills Bus Stop
+203845	M1149854	Thiruvottriyur Raja Kadai Bus stop
+203889	N0452017	Redhills Bus Stop
+203820	M0644290	Perambur Bus Stop
+203849	M0948844	Old Washermenpet Cemetry Road
+203755	F014450	Kovur Bus Stop
+203792	M0136711	Perungalathur Bus Stop
+203840	M0440907	MKB Nagar Bus Stop
+203781	N0452441	MGR Nagar Market
+203886	M0543029	Ayapakkam ICF Colony
+203855	N0451981	Broadway Excellent Hotel
+203790	M0137027	Urapakkam Bus Stop
+203838	N0552765	Kodungaiyur Bus Stop
+203813	M1049580	Medavakkam Bus Stop
+203786	M0644561	Maduravoyal EB office
+203770	N0552705	Arumbakkam NSK Nagar
+203806	M0949017	Pallavaram Bus Stop
+203865	N0351725	Pattabiram Police station
+203761	M1049397	Alandur Hotel Mount Heera
+203753	M0745528	Thiruverkadu Bus Depot
+203765	N0552767	Chintadripet Bus Stop
+203784	M1049035	Mogappair 7H Bus Stop
+203787	M0440965	Nerkundram Bus Stop
+203794	N0653199	Thoraipakkam PTC Quarters Bus Stop
+203881	N0452196	Ambattur Telephone Exchange
+203881	M0136400	Ambattur Ponnu Super Market
+203751	M0542697	Paraniputhur Bus Stop
+203789	K0725102	Urapakkam Bus Stop
+203771	M1150117	Shenoy Nagar TVK Park
+203770	J1022661	Arumbakkam NSK Nagar
+203878	N0452067	Ambattur Canara Bank
+203814	L0126910	Thiruvanmiyur Bus Stop
+203839	M0542268	Kodungaiyur Kannadasan Nagar Bus Stop
+203860	N0552588	Kilpauk New Avadi road V.O.C Bus Stop
+203778	N0452414	Mogappair West Golden Flats Bus Stop
+203755	M0948971	Kovur Bus Stop
+203772	L0126733	Porur Toll Gate
+203847	H0914969	Mint Bus Stop
+203887	M0340498	Ayyapakkam TNHB Colony
+203837	M0644633	Kodungaiyur Muthamizh Nagar Church
+203887	L0932671	Ayyapakkam TNHB Colony
+203803	N0452228	Chrompet Bus Stop
+203761	M0847375	Guindy Butt Road
+203884	M0238229	Ayapakkam Baba Kovil
+203788	E073136	Urapakkam Bus Stop
+203890	M0239198	Nanganallur Bus Stop
+203875	M0441386	Avadi Velltech Colege
+203804	H0714185	Pammal Bus Stop
+203881	M0239137	Ambattur Ramaswamy School
+203784	N0451924	Mogappair 7H Bus Stop
+203881	M0238691	Ambattur Ponnu Super Market
+203787	M0238607	Mogappair JJ Nagar Bus Stop
+203750	L0126747	Adambakkam NGO Colony bus Stop
+203839	N0452491	Kodungaiyur Kannadasan Nagar Bus Stop
+203838	M0846908	KKD Nagar Thiruthangal Nadar College
+203879	L0328345	Ramapuram DLF
+203892	M0846848	Ambattur Telephone Exchange
+203828	M0745238	Kolathur Teachers Colony
+203889	M0239103	Puzhal Bus Stop
+203767	M0847443	Aminjikarai Bus Stop
+203895	K0724894	Pudur Bus Stop
+203797	M0441493	Tambaram East Bus Stop
+203876	M0136505	Avadi Murugappa polytechnic
+203846	L0529772	Kovilambakkam Bus Stop
+203752	M0340593	Poonamallee Kattupakkam Bus Stop
+203783	N0451975	Thoraipakkam PTC Quarters Bus Stop
+203854	M0137323	Ayanavaram Bus stop
+203771	M0136794	Shenoy Nagar TVK Park
+203829	M0441150	Kolathur GKM Colony
+203760	M0948923	Anna Nagar West Bus Stop
+203760	M0746088	Anna Nagar West Bus Stop
+203896	M0239157	Menambedu Bus Stop
+203759	N0553033	Nungambakkam Police Station
+203864	M0340508	Thirunindravur Bus Stop
+203837	M0847621	Kodungaiyur Muthamizh Nagar Church
+203888	E073140	Redhills Koot Road
+203783	N0452511	Thoraipakkam PTC Quarters Bus Stop
+203763	N0552715	Chepauk Stadium Bus Stop
+203760	K1025544	Mandaveli Bus Stop
+203883	M1150351	Thirumullaivoil Railway Station
+203755	M0644348	Kovur Bus Stop
+203871	N0351636	Avadi Ponnu Super Market
+203883	M1150354	Thirumulaivayal Kannan Theatre
+203861	M0644833	Thirunindravur Railway Station
+203844	M0745694	Thiruvottiyur Tolgate Bus Stop
+203892	M0543370	Surapet Bus Stop
+203751	L1134727	Iyyapanthangal Bus Stop
+203801	M0948737	Chrompet Bus Stop
+203802	M0644413	Chrompet Bus Stop
+203793	N0351404	Tambaram East Bus Stop
+203860	N0251178	Kilpauk New Avadi road V.O.C Bus Stop
+203790	M0340174	Urapakkam Bus Stop
+203809	M0542091	Guindy Madhuvangarai Bridge
+203763	M0948922	Triplicane Bus Stop
+203784	M0948511	Mogappair 7H Bus Stop
+203786	M1250449	Madhuravoyal Market
+203782	M0846820	Saligramam Dasarathapuram
+203880	M0239177	Thirumullaivoyal Shiva Temple
+203819	N0452357	Perambur Lakshmiamman Koil
+203813	M0847954	Medavakkam Bus Stop
+203827	M0339572	Kolathur Vinayagapuram
+203818	L0932423	Mugallivakam Bus Stop
+203799	L1134400	Mudichur Bus Stop
+203838	N0351879	Vyasarpadi Erukancherry Bus Stop
+203888	M0340163	Redhills Bus Stop
+203865	H0312766	Pattabiram Bus Stop
+203882	M0339943	Thirumullaivoyal Manikandapuram bus stop
+203858	M0339422	Perambur Barracks Road
+203807	M0339332	Pammal Bus Stop
+203888	L0428845	Redhills Bus Stop
+203807	N0251214	Anakaputhur Bus Stop
+203863	N0553032	Thirunindravur Bus Stop
+203805	N0653384	Perungudi Bus Stop
+203857	M1150048	Porur Toll Gate
+203816	E063028	Arasamaram Ramapuram
+203775	N0553022	Kodambakkam Power House
+203767	M1250451	T Nagar Bus Stop
+203804	M0340092	Pammal Bus Stop
+203862	M1049049	Pattabiram Railway Gate
+203838	N0552986	Kodungaiyur Gandhi Statue
+203805	N0452127	Perungudi Bus Stop
+203777	N0150684	Ashok Nagar Jafferkhanpet
+203856	M1049266	Vepery Vetnary Hospital
+203814	M0948562	Thiruvanmiyur RTO Office
+203844	M1049222	Thiruvottiyur Tolgate Bus Stop
+203794	M1150262	Thoraipakkam Signal
+203795	N0552702	Tambaram Camp Road
+203819	N0552591	Perambur Eswari kalyana Mandabam
+203859	N0552701	Ayanavaram Mosque
+203808	N0452339	Porur Bai kadai
+203814	N0552634	Thiruvanmiyur RTO Office
+203781	L1236343	MGR Nagar Market
+203831	M1049270	Padi Lucas Bus Stop
+203797	N0150672	Tambaram East Bus Stop
+203829	N0351705	Ambattur Mannurpet Bus Stop
+203881	M0542171	Ambattur Telephone Exchange
+203892	K0624593	Surapet Shanmugapuram
+203890	M0644051	Pazhavanthangal Subway
+203867	M0542905	Thirunindravur Bus Stop
+203825	L0327764	Kolathur Periyar Nagar EB
+203797	L0831470	Tambaram East Bus Stop
+203841	N0552703	Vyasarpadi Fire Station
+203788	L1134364	Urapakkam Bus Stop
+203842	M0441653	Thiruvottiyur Ajex Bus Stop
+203796	M0441223	Tambaram Camp Road
+203784	N0452426	Mogappair 7H Bus Stop
+203754	L0730808	Thiruverkadu Anbu Nagar Bus Stop
+203860	L1135264	Kilpauk New Avadi Road
+203840	M0543265	MKB Nagar Bus Stop
+203796	J0922465	Tambaram Camp Road
+203878	N0351241	Avadi CRPF Bus Stop
+203871	M0238705	Avadi TNHB Colony
+203762	M0847868	Anna Nagar 12th Main Road
+203874	L0529778	Avadi Kaduvetti
+203799	M0340097	Tambaram West Bus Stop
+203878	N0452346	Ambattur Canara Bank
+203796	M0339550	Tambaram East Bus Stop
+203886	L0328169	Ayapakkam Water Tank
+203787	M0948211	Maduravoyal MGR University
+203816	N0452477	Mogappair 7H Bus Stop
+203945	M0846405	Puzhudhivakkam Bus Stop
+203749	M0948999	Medavakkam Bus Stop
+203750	F024661	Adambakkam NGO Colony bus Stop
+203864	M0137358	Thirunindravur Bus Stop
+203834	N0452421	Madhavaram Bus Stop
+203857	M0137165	Keelkattalai Eb Office
+203817	M0745017	Porur Alapakam Bus Stop
+203898	L1236318	Poonamalee Bus Stop
+203897	F065341	Menambedu Bus Stop
+203776	N0452329	Ekkatuthangal Bus Stop
+203751	L0831826	Paraniputhur Bus Stop
+203814	N0452485	Thiruvanmiyur RTO Office
+203854	M1049399	Ayanavaram Noor Hotel
+203827	M0847675	Kolathur Vinayagapuram
+203849	M0339568	Old Washermenpet Bus Stop
+203828	N0552956	Korattur Bus Stand
+203778	M1150056	CMBT Bus Stop
+203898	M0542185	Poonamallee Bus Depo
+203787	M0542723	Nerkundram Bus Stop
+203887	L0328192	Ayyapakkam TNHB Colony
+203752	N0452352	Poonamallee Kallarai Bus Stop
+203808	G059229	Porur Bai kadai
+203768	M0948097	Choolaimedu Gill Nagar Park
+203809	N0552841	Kandanchavadi SP Infocity
+203839	N0452313	Kodungaiyur MR Nagar Bus Stop
+203789	M1049553	Urapakkam Bus Stop
+203886	L0227484	Ayyapakkam Athipet
+203861	L1033380	Thirunindravur Bus Stop
+203749	M0542515	Medavakkam Koot Road
+203893	N0552844	Kallikuppam Arch Bus Stop
+203832	M0137016	Mathur Bus Stop
+203820	M1149794	Perambur Bus Stop
+203802	N0150716	Chrompet Bus Stop
+203893	M0543317	Kallikuppam Arch Bus Stop
+203879	M1049091	Ramapuram DLF
+203851	L0126781	Ayanavaram Noor Hotel
+203854	N0251095	Villivakkam Nadhamuni Bus Stop
+203865	M0340284	Avadi Sekadu Bus Stop
+203827	M0137580	Kolathur Vinayagapuram
+203776	N0251213	Ekkatuthangal Bus Stop
+203885	K1125861	Ayapakkam ICF Colony
+203859	K1226625	Purasaivakkam Thana Street
+203799	M0745009	Tambaram West Bus Stop
+203811	L0630255	Velacheriy Check Post
+203865	N0452226	Avadi Hindu College Railway Station
+203750	M0239216	Adambakkam NGO Colony bus Stop
+203845	H1115358	Thiruvottiyur Kaladipet Bus Stop
+203783	M0441242	Thoraipakkam PTC Quarters Bus Stop
+203816	M1049280	Mogappair JJ Nagar Bus Stop
+203883	M0644839	Thirumullaivoil Railway Station
+203891	N0452363	Redhills Koot Road
+203845	M0340583	Thiruvottiyur Kaladipet Bus Stop
+203752	L0126763	Poonamallee Kattupakkam Bus Stop
+203749	M0846541	Medavakkam Bus Stop
+203806	L0932057	Pallavaram Olympia Building
+203819	M1149955	Perambur Market
+203785	M0948421	Mogappair JJ Nagar Bus Stop
+203759	M0542388	Nungambakkam Bus Stop
+203873	L0630027	Avadi kamaraj Nagar Bus Stop
+203842	M0441128	Thiruvottiyur Ajex Bus Stop
+203820	L1034113	Perambur Bus Stop
+203770	M0846333	MMDA Colony
+203837	N0451930	Kodungaiyur Bus Stop
+203845	M0846732	Thiruvottiyur Kaladipet Bus Stop
+203896	M1049051	Menambedu Bus Stop
+203751	M0949005	Iyyapanthangal Bus Stop
+203812	M0542439	Velacherry Baby Nagar Bus Stop
+203849	K0624630	Tondiarpet Apollo Hospital
+203838	M0643517	Kodungaiyur Bus Stop
+203819	N0351707	Perambur Lakshmiamman Koil
+203777	M0441273	Thirumangalam Bus Stop
+203890	M0339275	Nanganallur Market
+203830	N0351401	Villivakkam Subway
+203818	M0948261	Mugallivakam Bus Stop
+203830	N0552951	Villivakkam Sidco Nagar
+203759	N0351478	Mylapore Tank
+203831	L1235564	Padi Lucas Bus Stop
+203823	L0227148	Kolathur TVK Nagar Bus Stop
+203823	M0542744	Thiru.Vi.Ka. Nagar Police Station
+203759	M0441678	Mylapore City Centre
+203756	N0552954	Porur Gerugambakkam
+203851	M0441504	Pattalam Bus Stop
+203867	K1126026	Thiruninravur Nemilichery
+203864	M0846877	Thiruninravur Jaya College
+203852	N0552758	Old washermenpet RSRM hospital
+203864	N0552993	Pattabiram Grace Hospital
+203856	M0948705	Periamet Bus Stop
+203872	M0340666	Avadi Checkpost
+203866	N0452222	Pattabiram Sekkadu Bus Stop
+203767	M0644624	T Nagar Bus Stop
+203853	M0847820	Ayanavaram Railway Quarters
+203841	M0542387	Vysarpadi Kannigapuram Bus Stand
+203825	L1236231	Kolathur Periyar Nagar EB
+203823	M0847185	Peravallur Bus Stop
+203835	N0553098	Adambakkam NGO Colony bus Stop
+203818	J0420981	Mugallivakam Bus Stop
+203772	J0320739	Porur Signal
+203847	M0441881	New Washermanpet Bus Stop
+203766	M1150356	Kotturpuam AMM School
+203854	M1049175	Villivakkam Bus Stand
+203814	N0251128	Thiruvanmiyur RTO Office
+203836	M1049591	Mathur Bus Stop
+203821	M0441570	Perambur Venus Bus Stop
+203863	M0441413	Thirunindravur Bus Stop
+203886	M0542395	Ayapakkam ICF Colony
+203846	K1025687	Madipakkam Moovarasanpet Bus Stop
+203882	M0948217	Thirumullaivoyal Steford Bus Stop
+203798	L0328028	Mudichur Bus Stop
+203852	M0744977	Royapuram kalmandabam
+203884	M0644560	Annanur Railway Station
+203884	M0542829	Ayyapakkam TNHB Colony
+203816	M0847582	Mogappair 7H Bus Stop
+203873	M0745733	Avadi kamaraj Nagar Bus Stop
+203782	M0644400	Chinmaya Nagar Bus Stop
+203872	M0542676	Avadi TNHB Colony
+203792	M0340178	Vandaloor Bus Stop
+203809	M0948981	Kandanchavadi SP Infocity
+203880	M0137450	Thirumullaivoyal Shiva Temple
+203807	M0745661	Pammal Bus Stop
+203794	N0452004	Thoraipakkam PTC Quarters Bus Stop
+203895	M0948952	Pudur Bus Stop
+203823	N0552906	Kolathur Anna Salai Bus Stop
+203818	N0552955	Mugallivakam Bus Stop
+203784	N0251120	Mogappair 7H Bus Stop
+203845	M0745231	Thiruvottriyur Raja Kadai Bus stop
+203833	M0137025	Madhavaram Arul Nagar Bus Stop
+203843	N0552992	Thiruvottiyur Ajex Bus Stop
+203895	M0847073	Pudur Bus Stop
+203805	M0745517	Perungudi Bus Stop
+203759	M0542068	Mogappair MMM Hospital
+203808	F065346	Porur Toll Gate
+203759	M0136456	Mogappair MMM Hospital
+203845	N0251106	Thiruvotriyur Railway Station
+203759	L0227499	Mylapore Tank
+203820	M1150094	Perumbur Brindha Theater
+203832	M1049398	Mathur Bus Stop
+203832	M0644838	Padi Brittania Bus Stop
+203832	N0251221	Mathur Bus Stop
+203856	N0552719	Periamet Bus Stop
+203798	N0452395	Mudichur Bus Stop
+203881	M0846907	Ambattur Telephone Exchange
+203872	L0429217	Avadi TNHB Colony
+203807	M0948461	Anakaputhur Bus Stop
+203820	N0250981	Perambur Bus Stop
+203789	E063056	Urapakkam Bus Stop
+203877	M1149921	Ambattur OT Bus Station
+203798	M1150264	Mudichur Bus Stop
+203887	N0452189	Ayappakkam Bus Stand
+203858	M1049262	Mogappair Collector Nagar Bus stop
+203799	M0340596	Tambaram West Bus Stop
+203791	M0339612	New Perungalathur Bus Stop
+203887	M0542058	Ayyapakkam TNHB Colony
+203805	M0441230	Perungudi Bus Stop
+203876	M0239052	Avadi Murugappa polytechnic
+203765	L0932045	Egmore commissioner's office
+203808	N0552917	Porur Bai kadai
+203809	M0948649	Taramani Railway Station
+203780	M1150219	Valasaravakkam Bus Stop
+203876	N0452046	Avadi Murugappa polytechnic
+203802	M0239217	Tambaram Sanitorium TB Hospital
+203839	N0552888	Kodungaiyur Kannadasan Nagar Bus Stop
+203847	M1150064	Mint Bus Stop
+203891	J0621611	Redhills Bus Stop
+203750	M0440833	Adambakkam NGO Colony bus Stop
+203860	K1025729	Kilpauk New Avadi Road
+203874	L0227659	Avadi Paruthipattu
+203798	N0351419	Mudichur Bus Stop
+203858	M0846906	Perambur Jamalia
+203754	M0745792	Thiruverkadu Police Station
+203878	J0521399	Avadi Mitnamalli Bus Stop
+203800	L0831844	Old Perungalathur Bus Stop
+203829	L1235770	Kolathur GKM Colony
+203851	N0251215	Pattalam Bus Stop
+203827	M0237849	Kolathur Vinayagapuram
+203895	L1236310	Pudur Bus Stop
+203891	M0238731	Redhills Bus Stop
+203812	M0643888	Velacherry Baby Nagar Bus Stop
+203764	L0730829	Chepauk Stadium Bus Stop
+203891	L1134407	Redhills Bus Stop
+203872	M0340281	Avadi Market Bus Stop
+203813	L0730834	Medavakkam Bus Stop
+203882	M0744939	Thirumullaivoyal Manikandapuram bus stop
+203796	N0552706	Tambaram East Bus Stop
+203841	M0136476	Vyasarpadi Fire Station
+203786	N0552843	Maduravoyal Bus Stop
+203886	N0351397	Ayapakkam ICF Colony
+203800	M0542524	Old Perungalathur Bus Stop
+203756	M1149782	Porur Madhnandapuram
+203751	L0529767	Iyyapathangal Bus Depot
+203875	M0644758	Avadi Velltech Colege
+203790	M0948897	Urapakkam Railway Station
+203804	M0543297	Pammal Bus Stop
+203879	M0137290	Ramapuram DLF
+203893	N0552985	Kallikuppam Bus Stop
+203855	N0552718	Mint Bus Stop
+203895	L1135089	Pudur Bus Stop
+203884	N0452018	Annanur Railway Station
+203859	M1049548	Purasaivakkam Bhuvaneswari Theatre
+203815	M0136828	Adyar Vannandurai Bus Stop
+203793	N0553099	Tambaram Camp Road
+203831	M0948225	Manali Bus Stop
+203771	N0653292	Anna Nagar 12th Main Road
+203852	M0846826	Old washermenpet RSRM hospital
+203896	M0541940	Menambedu Bus Stop
+203838	M0744964	Kodungaiyur Gandhi Statue
+203899	M1150100	Poonamallee Kumananchavadi Bus Stop
+203772	N0351629	Porur Signal
+203880	J0421134	Thirumullaivoyal Shiva Temple
+203887	M0542549	Ayyapakkam Athipet
+203792	M1049430	Vandaloor Bus Stop
+203784	M0746257	Mogappair 7H Bus Stop
+203881	N0351743	Ambattur Telephone Exchange
+203794	N0452493	Thoraipakkam Signal
+203772	M1150263	Porur Signal
+203840	M0745651	Vyasarpadi Sharma Nagar
+203769	M0746178	Choolaimedu Mehta Nagar Bus Stop
+203841	N0351269	Vysarpadi Kannigapuram Bus Stand
+203853	L0227531	Ayanavaram Joint Office Bus Stop
+203882	M0948131	Thirumullaivoyal Manikandapuram bus stop
+203751	N0351531	Iyyapanthangal Bus Stop
+203874	M0847852	Avadi Kovarthanagiri Bus Stop
+203811	M0745845	Velacherry 100 Ft Road
+203842	M0948090	Thiruvottiyur Ajex Bus Stop
+203863	M0340007	Thirunindravur Railway Station
+203760	M1149931	Anna Nagar West Bus Stop
+203784	M0745146	Mogappair 7H Bus Stop
+203878	N0351450	Ambattur Canara Bank
+203840	M0440985	Vyasarpadi Mullai Nagar Bus Stop
+203877	M0745564	Thirumullaivoyal Steford Bus Stop
+203812	M0948129	Velachery Dhandeeswaram Bus Stop
+203789	M1049552	Urapakkam Bus Stop
+203860	M0948218	Kilpauk Ega theatre
+203824	L0227339	Ramapuram Signal
+203851	M0339469	Pattalam Bus Stop
+203757	M0744974	Mandaveli Bus Stop
+203776	N0452350	Ekkatuthangal Bus Stop
+203819	N0553102	Perambur Eswari kalyana Mandabam
+203836	M0339573	Madhavaram Bus Stop
+203811	M0441425	Velacherry Vijayanagar Bus Stop
+203835	N0552675	Puzhudhivakkam Bus Stop
+203825	M0237902	Padi Lucas Bus Stop
+203812	M0846941	Velacherry Baby Nagar Bus Stop
+203777	N0452232	Ashok Nagar Bus Stop
+203860	M0846744	Kilpauk New Avadi Road
+203895	M0441511	Ambattur Ponnu Super Market
+203751	M0440803	Iyyapanthangal Bus Stop
+203893	M1049351	Kallikuppam Arch Bus Stop
+203891	N0250964	Redhills Koot Road
+203828	N0250951	Korattur Bus Stand
+203811	N0251036	Velacherry Vijayanagar Bus Stop
+203898	M0846596	Poonamalee Bus Stop
+203896	M0137055	Menambedu Bus Stop
+203806	N0552958	Pallavaram Olympia Building
+203838	G0910329	Kodungaiyur Parvathi Nagar
+203761	M0340068	Porur Signal
+203848	M1149959	Tondiarpet IOC Bus Stop
+203774	M0441267	Mogappair West Golden Flats Bus Stop
+203896	K0324255	Menambedu Alamaram Bus Stop
+203817	M0441410	Porur Mugalivakkam
+203782	N0351251	Saligramam Dasarathapuram
+203854	L0327768	Ayanavaram Noor Hotel
+203776	M0238305	Ekkatuthangal Bus Stop
+203848	M0340207	Tondiarpet IOC Bus Stop
+203872	L0328467	Avadi Checkpost
+203859	N0552696	Purasaivakkam Thana Street
+203827	M0137230	Kolathur Vinayagapuram
+203825	M0948967	Kolathur Poombugar nagar bus stop
+203818	E052758	Mugallivakam Bus Stop
+203946	M0238298	Ayanavaram ESI Hospital
+203769	M0543001	Choolaimedu Bus Stop
+203886	M0542342	Ayapakkam Water Tank
+203871	M0746177	Avadi TNHB Colony
+203829	M0948723	Perambur Loco Works
+203851	M0948978	Ayanavaram TB hospital
+203830	M0644826	Villivakkam Sidco Nagar
+203855	M0440819	Broadway Excellent Hotel
+203844	M0948409	Thiruvottiyur Tolgate Bus Stop
+203852	M0543320	Royapuram Kasimedu Signal
+203823	L0529447	Kolathur Anna Salai Bus Stop
+203946	L1033732	Anna Nagar West Bus Stop
+203850	N0552585	Mint Bus Stop
+203818	L0428837	Mugallivakam Bus Stop
+203816	N0451937	Arasamaram Ramapuram
+203827	N0451965	Kolathur Vinayagapuram
+203889	M0745548	Puzhal kavangarai Bus Stop
+203834	N0552831	Madhavaram Bus Stop
+203769	M1150057	Choolaimedu Mehta Nagar Bus Stop
+203829	M0948408	Kolathur GKM Colony
+203817	M0542831	Porur Alapakam Bus Stop
+203773	M1150028	Saidapet Jeyaraj Theatre
+203778	N0452514	Mogappair Collector Nagar Bus stop
+203844	M0542066	Thiruvottiyur Tolgate Bus Stop
+203824	N0553095	Nandambakkam Bus Stand
+203817	M0948206	Porur Mugalivakkam
+203768	F024714	Choolaimedu Gill Nagar Park
+203889	M0745155	Puzhal Bus Stop
+203778	N0552578	CMBT Bus Stop
+203757	N0351425	Mandaveli Railway Station
+203846	K0825282	Kovilambakkam Bus Stop
+203783	L1134788	Thoraipakkam PTC Quarters Bus Stop
+203882	L1135212	Thirumullaivoyal Manikandapuram bus stop
+203844	L1134939	Thiruvottiyur Theradi Bus Stop
+203883	M0846545	Thirumullaivoil Railway Station
+203851	N0250968	Otteri Bus Stop
+203765	M0542392	Egmore commissioner's office
+203890	M0238416	Nanganallur Bus Stop
+203839	M0543391	Kodungaiyur MR Nagar Bus Stop
+203784	M0340072	Mogappair 7H Bus Stop
+203848	F085954	Korukkupet Police Station
+203885	N0653249	Ayapakkam TNHB Colony
+203877	K1025731	Thirumullaivoyal Steford Bus Stop
+203862	F034829	Thirunindravur Railway Station
+203754	G0910324	Thiruverkadu Bus Depot
+203812	N0250963	Velacherry Phoenix Mall
+203810	M1049284	Velacherry 100 Ft Road
+203870	N0351247	Pattabiram Police station
+203872	M0644040	Avadi TNHB Colony
+203783	M1049286	Thoraipakkam PTC Quarters Bus Stop
+203790	N0452045	Urapakkam Bus Stop
+203868	M1049177	Pallikaranai Oil Mill Bus Stop
+203877	M1150053	Thirumullaivoyal Steford Bus Stop
+203819	M0340087	Perambur Bus Stop
+203874	L1135232	Avadi Paruthipattu
+203874	M0238554	Avadi Paruthipattu SA Engg College
+203889	M0846372	Redhills Bus Stop
+203841	M1150114	Padi Brittania Bus Stop
+203777	M0542781	CMBT Bus Stop
+203863	M0137515	Thirunindravur Railway Station
+203749	M1150059	Medavakkam Bus Stop
+203821	M0238813	Padi Brittania Bus Stop
+203762	M1049285	Mogappair MMM Hospital
+203872	M0542852	Avadi TNHB Colony
+203867	M0948994	Thirunindravur Railway Station
+203846	M0846949	Kovilambakkam Bus Stop
+203892	H0111969	Ambattur Telephone Exchange
+203830	M0237866	Villivakkam Bus Stand
+203851	M0948936	Otteri Bus Stop
+203845	M1049462	Thiruvottiyur Kaladipet Bus Stop
+203818	K0224141	Mugallivakam Bus Stop
+203862	M0948910	Pattabiram Bus Stop
+203896	N0351732	Ambattur OT Bus Station
+203817	M0745013	Alapakkam Bus Stop
+203874	M0948152	Ayyapakkam Athipet
+203752	M0441276	Poonamallee Kattupakkam Bus Stop
+203763	M0441302	Triplicane Bus Stop
+203785	M0847384	Mogappair Nolambur
+203842	N0552939	Thiruvottiyur Ajex Bus Stop
+203783	M1150047	Thoraipakkam PTC Quarters Bus Stop
+203795	M0238111	Tambaram Camp Road
+203880	M0441526	Thirumullaivoyal Shiva Temple
+203788	M0238926	Urapakkam Bus Stop
+203766	M0239069	Kotturpuam AMM School
+203807	M0440883	Anakaputhur Bus Stop
+203876	M0238030	Avadi Ajay Stadium
+203802	M0542383	Tambaram Sanitorium TB Hospital
+203885	M0745359	Ayapakkam TNHB Colony
+203860	M0543270	Kilpauk Ega theatre
+203893	L1236289	Kallikuppam Arch Bus Stop
+203758	M0136694	Teynampet Signal
+203812	M0745392	Velacherry Phoenix Mall
+203771	M0441411	MMDA Colony
+203780	L1236016	Valasaravakkam Bus Stop
+203796	N0452497	Tambaram Camp Road
+203768	M0644824	Choolaimedu Gill Nagar Park
+203781	N0653195	MGR Nagar Market
+203767	N0653126	T Nagar Bus Stop
+203877	N0653198	Ambattur OT Bus Station
+203790	M0542579	Urapakkam Bus Stop
+203839	N0552967	Kodungaiyur Kannadasan Nagar Bus Stop
+203879	M0745864	Porur Toll Gate
+203770	M0542832	MMDA Colony
+203842	M1150232	Thiruvottiyur Ajex Bus Stop
+203798	K1126140	Mudichur Bus Stop
+203762	M0745542	Royapettah Ice House Police Station
+203855	M0846833	Broadway Excellent Hotel
+203889	N0653157	Redhills Bus Stop
+203769	N0452230	Choolaimedu Bata Show Room
+203878	M0846359	Ambattur Canara Bank
+203897	N0452197	Ambattur Estate MTC Bus Depot
+203867	M0339404	Thirunindravur Railway Station
+203872	M0847941	Avadi Checkpost
+203826	N0351433	Kolathur RTO Bus Stop
+203777	L0428668	MMDA Bus Stop
+203816	L0932422	Arasamaram Ramapuram
+203775	N0452424	Kodambakkam Power House
+203818	M0846795	Mugallivakam Bus Stop
+203868	M0846544	Pallikaranai Oil Mill Bus Stop
+203774	J0220075	West Mambalam Ramakrishna Puram
+203772	N0552633	Porur Signal
+203776	L0126930	Ekkatuthangal Bus Stop
+203777	M0340462	Ashok Nagar Jafferkhanpet
+203894	M1150224	Ambattur Oragadam
+203805	N0553100	Perungudi Bus Stop
+203751	M0136827	Iyyapathangal Bus Depot
+203837	M0644675	Kodungaiyur Muthamizh Nagar Church
+203883	E083355	Thirumullaivoil Railway Station
+203769	M0745242	Choolamedu Heritage Fresh
+203900	M0643970	Kundrathur Bus Stop
+203894	N0552637	Ambattur Oragadam
+203821	K1226451	Perambur Agaram Bus Stop
+203899	M0948470	Mangadu Bus Stop
+203847	M0846527	New Washermanpet Bus Stop
+203897	N0351476	Menambedu Bus Stop
+203896	N0452008	Menambedu Bus Stop
+203894	G1010675	Ambattur Oragadam
+203822	I0617323	Kolathur Kumaran Nagar Bus Stop
+203779	M0846335	K K Nagar RTO Office
+203775	M0948980	Kodambakkam Power House
+203866	M0847448	Pattabiram Bus Stop
+203824	L0227173	Ramapuram Signal
+203834	M0542751	Madhavaram Bus Stop
+203843	E114007	Thiruvottiyur Ajex Bus Stop
+203816	M0949008	Mogappair 7H Bus Stop
+203822	M0136428	Kolathur Moogambigai Kovil Bus Stop
+203826	M0846942	Kolathur DRJ Hospital
+203760	M0441311	Anna Nagar West Bus Stop
+203778	M0846386	Vadapalani Ambika Empire
+203861	M0847415	Thirunindravur Railway Station
+203818	M0339873	Mugallivakam Bus Stop
+203833	M0745520	Madhavaram Arul Nagar Bus Stop
+203811	K1125992	Velacherry 100 Ft Road
+203899	N0452043	Mangadu Bus Stop
+203849	M0846834	Tondiarpet Apollo Hospital
+203847	N0250950	Old Washermenpet Bus Stop
+203846	M0440788	Kovilambakkam Bus Stop
+203892	L0730502	Surapet Shanmugapuram
+203824	N0452044	Pallikaranai Bus Stop
+203874	M0441152	Avadi Paruthipattu
+203756	N0150659	Porur Gerugambakkam
+203768	K1226563	Choolaimedu Bus Stop
+203814	N0351749	Thiruvanmiyur RTO Office
+203946	M0644469	Santhome Church
+203750	N0351244	Adambakkam NGO Colony bus Stop
+203761	M0847129	Guindy Butt Road
+203798	M0440988	Mudichur Bus Stop
+203880	M0340198	Thirumulaivoyal Bus Stop
+203754	M0339431	Thiruverkadu Bus Depot
+203752	L0932644	Poonamallee Kattupakkam Bus Stop
+203863	M0238806	Thirunindravur Railway Station
+203768	M0238078	Choolaimedu Gill Nagar Park
+203793	E032312	Tambaram Camp Road
+203945	M0137632	Mugallivakam Bus Stop
+203786	L1235549	Maduravoyal EB office
+203842	M0644338	Thiruvottiyur Ajex Bus Stop
+203834	M1049182	Madhavaram Thapalpetti
+203823	M0744922	Kolathur TVK Nagar Bus Stop
+203833	N0452361	Madhavaram MMC Bus Stop
+203764	M0846818	Chepauk Stadium Bus Stop
+203776	L1134462	Ekkatuthangal Bus Stop
+203813	M0340363	Medavakkam Bus Stop
+203841	M0644219	Padi Lucas Bus Stop
+203828	M0745697	Kolathur Teachers Colony
+203891	N0452343	Redhills Bus Stop
+203896	N0452275	Menambedu Alamaram Bus Stop
+203867	N0552577	Thirunindravur Railway Station
+203776	N0452314	Ekkatuthangal Bus Stop
+203835	L1134541	Madipakkam Bus Stop
+203899	M0543019	Poonamallee Kumananchavadi Bus Stop
+203777	N0452288	Vadapalani Signal
+203825	N0653386	Padi Lucas Bus Stop
+203816	N0351786	Arasamaram Ramapuram
+203844	M0340753	Thiruvottiyur Theradi Bus Stop
+203858	L1134719	Perambur Barracks Road
+203832	M0846803	Mathur Bus Stop
+203829	M0238692	Ambattur Mannurpet Bus Stop
+203749	J1123034	Medavakkam Koot Road
+203838	L0932447	Kodungaiyur Parvathi Nagar
+203857	M0948344	Kilkattalai Bus Depot
+203776	M0948508	Ekkatuthangal Bus Stop
+203779	M0543264	K K Nagar Sivan Park
+203750	K0724949	Adambakkam NGO Colony bus Stop
+203833	M0441146	Madhavaram Arul Nagar Bus Stop
+203849	M0847772	Old Washermenpet Bus Stop
+203835	K0624711	Madipakkam Ram Nagar
+203893	N0553027	Kallikuppam Arch Bus Stop
+203861	N0452205	Thirunindravur Bus Stop
+203948	M0948276	Villivakkam Subway
+203836	N0552959	Madhavaram Bus Stop
+203899	M0340486	Karayanchavadi Bus Stop
+203821	N0452462	Perambur Venus Bus Stop
+203834	N0452479	Madhavaram Bus Stop
+203872	L0227533	Avadi Checkpost
+203847	N0653381	Old Washermanpet Maharani bus stop
+203822	N0351620	Padi Brittania Bus Stop
+203881	M1149773	Ambattur Canara Bank
+203825	N0452336	Kolathur Poombugar nagar bus stop
+203825	J1123027	Kolathur Periyar Nagar EB
+203759	I0717866	Mylapore Tank
+203887	N0150802	Ayyapakkam Athipet
+203781	M0644693	Nesapakkam Bus Stop
+203817	M0136474	Porur Alapakam Bus Stop
+203785	M0847372	Mogappair West Bus Depot
+203785	M0847383	Mogappair West Bus Depot
+203884	M0542939	Ayyapakkam TNHB Colony
+203884	N0250966	Annanur Railway Station
+203869	M0239098	Thiruninravur Nemilichery
+203801	N0552839	Chrompet Bus Stop
+203772	G079886	Porur Lakshmi Nagar
+203865	N0552583	Avadi Hindu College Railway Station
+203848	M0137452	Moolakadai Police Station
+203756	M0239093	Porur Bai kadai
+203894	M0745347	Ambattur Oragadam
+203845	M0136420	Thiruvottiyur Theradi Bus Stop
+203833	M1049233	Madhavaram Arul Nagar Bus Stop
+203809	M0136840	Taramani Bus Stop
+203781	M0137207	Nesapakkam Bus Stop
+203885	M0644329	Ayapakkam TNHB Colony
+203784	M0339392	Mogappair 7H Bus Stop
+203879	N0553094	Ramapuram Signal
+203806	N0552575	Pallavaram Olympia Building
+203798	M0745348	Mudichur Bus Stop
+203869	M0948745	Thirunindravur Bus Stop
+203755	M0948974	Kovur Bus Stop
+203763	L0730658	Triplicane Bus Stop
+203870	N0451974	Pattabiram Police station
+203875	M0136779	Avadi Velltech Colege
+203772	M0847249	Porur Signal
+203816	N0552833	Mogappair 7H Bus Stop
+203799	M0339583	Tambaram West Bus Stop
+203888	M0846531	Redhills Bus Stop
+203804	M0441448	Pammal Bus Stop
+203823	N0351474	Kolathur TVK Nagar Bus Stop
+203750	M0340193	Adambakkam Police station
+203772	N0150656	Porur Signal
+203802	M0238515	Chrompet Bus Stop
+203879	M0745358	Ramapuram DLF
+203886	M0543316	Ayapakkam ICF Colony
+203882	M0948228	Thirumullaivoyal Steford Bus Stop
+203884	I0516910	Ayyapakkam TNHB Colony
+203754	M0745535	Thiruverkadu Police Station
+203868	M0441682	Pallikaranai Oil Mill Bus Stop
+203799	M0847219	Tambaram West Bus Stop
+203781	M0137167	Nesapakkam Bus Stop
+203749	L0932198	Medavakkam Koot Road
+203856	M0745550	Periamet Bus Stop
+203884	L0227454	Annanur Railway Station
+203853	N0250986	Ayanavaram Joint Office Bus Stop
+203840	M0948248	Vyasarpadi Mullai Nagar Bus Stop
+203750	N0452123	Adambakkam NGO Colony bus Stop
+203752	N0653248	Poonamallee Kattupakkam Bus Stop
+203757	M1150098	RA Puram
+203822	N0452353	Kolathur Kumaran Nagar Bus Stop
+203894	M0847490	Ambattur Oragadam
+203888	M1049056	Redhills Koot Road
+203861	D101696	Thirunindravur Bus Stop
+203841	M0441392	Padi Brittania Bus Stop
+203846	L0730537	Kovilambakkam Bus Stop
+203889	E012070	Puzhal Bus Stop
+203778	L0932656	CMBT Bus Stop
+203835	M1049577	Puzhudhivakkam Bus Stop
+203856	M1150226	Periamet Bus Stop
+203756	N0351726	Porur Madhnandapuram
+203804	K0825237	Pammal Bus Stop
+203818	M0846550	Alapakkam Bus Stop
+203753	L0831591	Ayanambakkam Ambethkar Station
+203864	J0721708	Thirunindravur Bus Stop
+203811	L0932742	Velacherry 100 Ft Road
+203758	N0653231	Teynampet Signal
+203805	N0552710	Perungudi Bus Stop
+203834	M1049484	Madhavaram Bus Stop
+203837	N0251075	Kodungaiyur Muthamizh Nagar Church
+203817	M1150035	Alapakkam Bus Stop
+203761	M0137080	St Thomas Mount Bus Stop
+203822	M0542183	Perambur Ponniammanmedu
+203819	M0136770	Peravallur Bus Stop
+203870	K1025548	Avadi Sekadu Bus Stop
+203891	M0542713	Redhills Koot Road
+203759	L0831212	Mylapore Tank
+203842	L0428669	Thiruvottiyur Ajex Bus Stop
+203861	M0339569	Thirunindravur Railway Station
+203858	N0452204	Villivakkam Nadhamuni Bus Stop
+203846	M0238455	Ullagaram Bharath Petroleum Bunk
+203824	L0227433	Pallikaranai Bus Stop
+203894	M0948254	Ambattur Oragadam
+203855	M0340242	Broadway Excellent Hotel
+203827	M0441017	Kolathur Vinayagapuram
+203844	M0440899	Thiruvottiyur Theradi Bus Stop
+203813	M0441815	Medavakkam Bus Stop
+203888	N0351733	Redhills Bus Stop
+203862	M1150091	Thiruninravur Nemilichery
+203793	L1033908	Tambaram Camp Road
+203831	N0452338	Manali Bus Stop
+203850	M0745008	Old Washermenpet Stanley Bus Stop
+203772	N0351802	Porur Signal
+203750	N0351810	Adambakkam NGO Colony bus Stop
+203861	M0542283	Thirunindravur Bus Stop
+203791	N0552909	New Perungalathur Bus Stop
+203875	E124217	Avadi Velltech Colege
+203838	M0340077	KKD Nagar Thiruthangal Nadar College
+203763	M1149770	Triplicane Queen Marys College
+203765	N0552569	Mogappair Collector Nagar Bus stop
+203843	M0542883	Thiruvottiyur Ajex Bus Stop
+203831	M0644815	Manali Bus Stop
+203896	G017300	Menambedu Bus Stop
+203821	M0948688	Perambur Venus Bus Stop
+203835	M0441310	Madipakkam Bus Stop
+203749	L1235878	Medavakkam Bus Stop
+203864	M0542691	Thirunindravur Railway Station
+203836	N0452509	Mathur Bus Stop
+203848	M0340480	Vyasarpadi Bus Stop
+203824	M0541942	Porur Toll Gate
+203756	N0351723	Porur Bai kadai
+203885	M0644392	Ayapakkam Water Tank
+203808	M1049672	Porur Bai kadai
+203765	M1149832	Anna Nagar Bus Stop
+203790	M0136508	Urapakkam Bus Stop
+203820	N0452328	Perambur Bus Stop
+203822	M0137331	Kolathur Moogambigai Kovil Bus Stop
+203860	N0552582	Kilpauk New Avadi Road
+203792	N0552881	Urapakkam Bus Stop
+203789	N0452021	Urapakkam Bus Stop
+203792	N0653200	Perungalathur Bus Stop
+203766	M0543144	Arumbakkam Mega Mart
+203831	M1149934	Manali Bus Stop
+203816	M0948102	Arasamaram Ramapuram
+203820	N0452423	Kolathur Reliance Signal
+203758	M0136961	Teynampet SIET College
+203803	M0541941	Chrompet Bus Stop
+203752	N0452517	Iyyapanthangal Bus Stop
+203879	L0529486	Ramapuram Signal
+203886	M0440997	Ayapakkam ICF Colony
+203797	M1049481	Tambaram East CSI Church
+203868	M0745159	Pallikaranai Oil Mill Bus Stop
+203888	L0932151	Redhills Bus Stop
+203767	L0730968	T Nagar Bus Stop
+203769	N0552567	Choolaimedu Bus Stop
+203821	L1235641	Perambur Agaram Bus Stop
+203758	M0543313	Teynampet Signal
+203802	M0847855	Tambaram Sanitorium TB Hospital
+203890	N0552994	Pazhavanthangal Subway
+203846	K0123610	Ullagaram Bharath Petroleum Bunk
+203858	L1134285	Perambur Jamalia
+203782	K0724951	Chinmaya Nagar Bus Stop
+203860	M1049658	Kilpauk Ega theatre
+203762	M0745707	Royapettah Ice House Police Station
+203947	M0948717	Ayapakkam TNHB Colony
+203783	N0251126	Thoraipakkam PTC Quarters Bus Stop
+203839	L0831573	Kodungaiyur MR Nagar Bus Stop
+203805	M0643670	Perungudi Bus Stop
+203885	N0552700	Ayapakkam Water Tank
+203877	M1250432	Ambattur OT Bus Station
+203824	M0441001	Nandambakkam Bus Stand
+203829	K1226495	Padi Brittania Bus Stop
+203873	M0948812	Avadi kamaraj Nagar Bus Stop
+203773	L0730589	Saidapet Jones Road
+203848	J0721701	Tondiarpet IOC Bus Stop
+203768	N0351403	Choolaimedu Bus Stop
+203787	M0542080	Maduravoyal MGR University
+203842	M0137105	Thiruvottiyur Ajex Bus Stop
+203754	M0948455	Thiruverkadu Police Station
+203759	M1149858	Nungambakkam Police Station
+203790	M0644696	Urapakkam Bus Stop
+203883	M0948928	Ambattur Canara Bank
+203820	M1150227	Perambur S2 Theatre Sembium
+203875	M0643769	Avadi Velltech Colege
+203888	N0553096	Redhills Koot Road
+203793	M0137368	Tambaram Camp Road
+203754	M0746158	Thiruverkadu Bus Depot
+203880	N0552712	Thirumullaivoyal Shiva Temple
+203840	M0847865	Vyasarpadi Sharma Nagar
+203788	M0847193	Urapakkam Bus Stop
+203880	N0653192	Thirumullaivoyal Shiva Temple
+203807	N0150667	Anakaputhur Bus Stop
+203876	I0717761	Thirumullaivoyal Steford Bus Stop
+203772	N0452215	Porur Signal
+203758	N0552629	Teynampet Signal
+203893	M0746029	Kallikuppam Tea Kadai Bus Stop
+203856	N0452422	Kilpauk Garden
+203792	M1049040	New Perungalathur Bus Stop
+203865	N0150685	Thirunindravur Bus Stop
+203855	M0136493	Central Wall Tax Road
+203788	M0948456	Urapakkam Bus Stop
+203841	M1150223	Vyasarpadi Bus Stop
+203891	M1250431	Redhills Koot Road
+203879	N0251094	Ramapuram DLF
+203767	M1049181	Aminjikarai Bus Stop
+203794	N0452490	Thoraipakkam PTC Quarters Bus Stop
+203862	J1022554	Pattabiram Bus Stop
+203780	L1033903	Valasaravakkam Bus Stop
+203834	M1150274	Madhavaram Thapalpetti
+203775	M0846640	Kodambakkam Sekar Emporium
+203845	K0724760	Thiruvottiyur Kaladipet Bus Stop
+203867	M1049168	Thirunindravur Railway Station
+203884	N0351409	Ayapakkam Baba Kovil
+203855	N0351521	Broadway Excellent Hotel
+203948	M0238601	MKB Nagar Bus Stop
+203794	M0643582	Thoraipakkam Signal
+203786	N0452290	Maduravoyal Bus Stop
+203870	M0441229	Pattabiram Railway Gate
+203836	L1135267	Moolaikadai Bus Stop
+203766	M0644042	Kotturpuam AMM School
+203885	N0452200	Ayapakkam Water Tank
+203797	L0932028	Tambaram East Bus Stop
+203803	M0238086	Chrompet Bus Stop
+203871	M0441221	Avadi Rama rathna theatre
+203867	J1122868	Thirunindravur Railway Station
+203859	M0542841	Ayanavaram Railway Quarters
+203810	M0239087	Velacherry 100 Ft Road
+203845	M0340670	Thiruvottiyur Kaladipet Bus Stop
+203900	M0440998	Kundrathur Periyar Nagar
+203775	M0238818	Kodambakkam Power House
+203780	N0150666	Valasaravakkam Mega Mart
+203809	M0644236	Kandanchavadi SP Infocity
+203799	J0521472	Mudichur Bus Stop
+203770	F075596	MMDA Colony
+203771	N0653289	Anna Nagar 12th Main Road
+203868	N0553026	Pallikaranai Bus Stop
+203852	M0949009	Royapuram kalmandabam
+203890	N0553057	Nanganallur Subway
+203824	N0351522	Pallikaranai Bus Stop
+203865	N0452276	Thirunindravur Bus Stop
+203868	L1235456	Pallikaranai Bus Stop
+203828	M0237903	Kolathur Teachers Colony
+203832	L0328197	Mathur Bus Stop
+203760	M1150244	Anna Nagar West Bus Stop
+203828	M0643618	Kolathur Teachers Colony
+203847	N0653208	Old Washermanpet Maharani bus stop
+203835	M1250435	Puzhudhivakkam Bus Stop
+203780	M0441246	Valasaravakkam Bus Stop
+203750	N0452191	Adambakkam NGO Colony bus Stop
+203756	M0239225	Porur Madhnandapuram
+203774	M0339598	West Mambalam Ramakrishna Puram
+203896	M0542117	Menambedu Bus Stop
+203846	M0340598	Ullagaram Bharath Petroleum Bunk
+203900	L1134786	Kundrathur Bus Stop
+203900	M0238686	Kundrathur Bus Stop
+203852	L1235813	Royapuram Kasimedu Signal
+203899	M0137212	Mangadu Bus Stop
+203847	L0730486	Mint Bus Stop
+203778	M0847620	Vadapalani Thirunagar Bus Stop
+203830	L0932066	Villivakkam Subway
+203892	M0948223	Ambattur Oragadam
+203758	N0552648	Teynampet Signal
+203867	N0552579	Thirunindravur Railway Station
+203890	N0351728	Nanganallur Subway
+203802	N0351242	Tambaram Mepz Bus Stop
+203874	N0653172	Avadi Paruthipattu
+203840	N0552640	Vyasarpadi Sharma Nagar
+203844	M0847860	Thiruvotriyur Market Bus Stop
+203799	M1150134	Tambaram West Bus Stop
+203763	N0653222	Triplicane Post Office
+203793	M0541928	Tambaram East Bus Stop
+203751	N0351405	Iyyapanthangal Bus Stop
+203835	M0238222	Madipakkam Ram Nagar
+203825	N0452356	Kolathur Periyar Nagar EB
+203828	K1126058	Korattur Bus Stand
+203799	J1022576	Mudichur Bus Stop
+203777	N0452120	CMBT Bus Stop
+203862	M0238477	Pattabiram Bus Stop
+203760	M0137840	Anna Nagar West Bus Stop
+203774	M0744901	West Mambalam Ramakrishna Puram
+203809	L0126923	Kandanchavadi SP Infocity
+203771	L1236337	Mogappair Collector Nagar Bus stop
+203871	N0552913	Avadi TNHB Colony
+203825	M1150371	Kolathur Periyar Nagar Bus Stop
+203899	N0150683	Mangadu Bus Stop
+203864	M0745210	Thirunindravur Bus Stop
+203825	N0452425	Kolathur Periyar Nagar EB
+203828	N0653290	Korattur Bus Stand
+203847	N0251045	Mint Bus Stop
+203852	M0541995	Royapuram kalmandabam
+203757	M0441170	RA Puram
+203849	M0543018	Old Washermanpet Maharani bus stop
+203758	M0948917	Teynampet Signal
+203831	K0725047	Mathur Bus Stop
+203874	L0831437	Avadi Kovarthanagiri Bus Stop
+203763	M1150066	Chepauk Stadium Bus Stop
+203810	M0948720	Velacherry 100 Ft Road
+203867	N0452512	Thirunindravur Bus Stop
+203880	E124170	Thirumullaivoyal Shiva Temple
+203863	K0324358	Thirunindravur Bus Stop
+203754	N0452417	Thiruverkadu Anbu Nagar Bus Stop
+203863	M0137394	Thirunindravur Railway Station
+203819	M0948690	Perambur Bus Stop
+203882	N0351706	Thirumullaivoyal Manikandapuram bus stop
+203871	M1049173	Avadi Ponnu Super Market
+203803	M1049349	Meenambakkam Bus Stop
+203841	M0339456	Vyasarpadi Bus Stop
+203833	L0831936	Madhavaram MMC Bus Stop
+203843	J0721945	Thiruvottriyur Raja Kadai Bus stop
+203793	M0846798	Tambaram Camp Road
+203757	M0137175	Anna Arch Bus Stop
+203851	N0351449	Ayanavaram Noor Hotel
+203775	M0847454	Kodambakkam Power House
+203816	M0340282	Arasamaram Ramapuram
+203784	M0239162	Mogappair 7H Bus Stop
+203773	M1049407	Saidapet Jones Road
+203864	M0949016	Thirunindravur Bus Stop
+203890	M1049193	Nanganallur Bus Stop
+203884	L1033709	Annanur Railway Station
+203753	N0351434	Velappanchavadi Bus Stop
+203821	N0351267	Perambur Bus Stop
+203800	L0831328	Tambaram West Bus Stop
+203860	M0137344	Ayanavaram Medavakkam Bus Stop
